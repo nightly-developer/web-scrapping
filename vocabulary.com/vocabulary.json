@@ -1,0 +1,3381 @@
+{
+    "stupendous": {
+        "meaning": "so great in size, force, or extent as to elicit awe",
+        "breif": "Stupendous means amazing or awesome. You just won a million dollars and are donating it to charity? That\u2019s stupendous!",
+        "POS": {
+            "adjective": [
+                "so great in size or force or extent as to elicit awe"
+            ]
+        },
+        "example": [
+            "a stupendous field of grass"
+        ]
+    },
+    "ersatz": {
+        "meaning": "an artificial or inferior substitute or imitation",
+        "breif": "The ersatz version of something is an inferior substitute or imitation. You might speak in an ersatz French accent, but you won't fool the Parisian who runs the local French bakery.",
+        "POS": {
+            "noun": [
+                "an artificial or inferior substitute or imitation"
+            ],
+            "adjective": [
+                "artificial and inferior"
+            ]
+        },
+        "example": [
+            "ersatz coffee"
+        ]
+    },
+    "admonish": {
+        "meaning": "scold or reprimand; take to task",
+        "breif": "To admonish is to scold. If you want to show someone you're not happy with his behavior, admonish him.",
+        "POS": {
+            "verb": [
+                "take to task",
+                "admonish or counsel in terms of someone's behavior",
+                "warn strongly; put on guard"
+            ]
+        },
+        "example": [
+            "He admonished the child for his bad behavior"
+        ]
+    },
+    "tyro": {
+        "meaning": "someone new to a field or activity",
+        "breif": "A tyro is a beginner, a new recruit, or someone who is just learning something. If you are the new guy at the job and you're wearing a big badge that says \"Trainee\" on it, you are a tyro.",
+        "POS": {
+            "noun": [
+                "someone new to a field or activity"
+            ]
+        },
+        "example": []
+    },
+    "aphrodisiac": {
+        "meaning": "a drug or other agent that stimulates sexual desire",
+        "breif": "An aphrodisiac is a drug (or something else) that puts people in the mood for sex.",
+        "POS": {
+            "noun": [
+                "a drug or other agent that stimulates sexual desire"
+            ],
+            "adjective": [
+                "exciting sexual desire"
+            ]
+        },
+        "example": []
+    },
+    "besmirch": {
+        "meaning": "smear so as to make dirty or stained",
+        "breif": "To besmirch means to dirty or tarnish, particularly someone's reputation \u2014 like when you call Billy a cheater at kickball (even though you know he's just better at bunting than you).",
+        "POS": {
+            "verb": [
+                "smear so as to make dirty or stained",
+                "charge falsely or with malicious intent; attack the good name and reputation of someone"
+            ]
+        },
+        "example": []
+    },
+    "panacea": {
+        "meaning": "hypothetical remedy for all ills or diseases",
+        "breif": "If someone offers you a pill that promises eternal life, don\u2019t take the pill.  It\u2019s a panacea, a remedy that falsely claims to solve every problem ever.",
+        "POS": {
+            "noun": [
+                "hypothetical remedy for all ills or diseases; once sought by the alchemists"
+            ]
+        },
+        "example": []
+    },
+    "epithet": {
+        "meaning": "descriptive word or phrase",
+        "breif": "The noun epithet is a descriptive nickname, such as \"Richard the Lionhearted,\" or \"Tommy the Terrible.\" When it takes a turn for the worse, it can also be a word or phrase that offends.",
+        "POS": {
+            "noun": [
+                "descriptive word or phrase",
+                "a defamatory or abusive word or phrase"
+            ]
+        },
+        "example": []
+    },
+    "ostracize": {
+        "meaning": "expel from a community or group",
+        "breif": "If you banish someone or ignore him, you ostracize him. When the Iranian president claimed that the Holocaust was a hoax, he was ostracized by the international community.",
+        "POS": {
+            "verb": [
+                "expel from a community or group",
+                "avoid speaking to or dealing with"
+            ]
+        },
+        "example": [
+            "Ever since I spoke up, my colleagues ostracize me"
+        ]
+    },
+    "placebo": {
+        "meaning": "an innocuous or inert medication",
+        "breif": "A patient's symptoms sometimes disappear just because they believe that they are being treated. Even when doctors give them a biologically inactive drug, otherwise known as a placebo, the patients swear they are cured.",
+        "POS": {
+            "noun": [
+                "an innocuous or inert medication; given as a pacifier or to the control group in experiments on the efficacy of a drug",
+                "(Roman Catholic Church) vespers of the office for the dead"
+            ]
+        },
+        "example": []
+    },
+    "fiasco": {
+        "meaning": "a complete failure or collapse",
+        "breif": "A fiasco is a disaster. It's not a natural disaster \u2014 like an earthquake or a volcano; a fiasco is usually the result of human failure.",
+        "POS": {
+            "noun": [
+                "a complete failure or collapse"
+            ]
+        },
+        "example": []
+    },
+    "dichotomy": {
+        "meaning": "a classification into two opposed parts or subclasses",
+        "breif": "A dichotomy is an idea or classification split in two. When you point out a dichotomy, you draw a clear distinction between two things.",
+        "POS": {
+            "noun": [
+                "being twofold; a classification into two opposed parts or subclasses"
+            ]
+        },
+        "example": [
+            "the dichotomy between eastern and western culture"
+        ]
+    },
+    "coterie": {
+        "meaning": "an exclusive circle of people with a common purpose",
+        "breif": "Have you noticed how so many of the best TV shows concentrate on a group of friends who seem to mesh together perfectly, to the exclusion of all others? This, then, is a coterie, an exclusive group with common interests.",
+        "POS": {
+            "noun": [
+                "an exclusive circle of people with a common purpose"
+            ]
+        },
+        "example": []
+    },
+    "euphemism": {
+        "meaning": "an inoffensive expression substituted for an offensive one",
+        "breif": "Pardon me, but when a polite term is substituted for a blunt, offensive one, you should call it a euphemism.",
+        "POS": {
+            "noun": [
+                "an inoffensive or indirect expression that is substituted for one that is considered offensive or too harsh"
+            ]
+        },
+        "example": []
+    },
+    "zealot": {
+        "meaning": "a fervent and even militant proponent of something",
+        "breif": "The hamburger zealot was so fanatical about his burgers that he camped outside his favorite fast-food joint for hours every morning, waiting for it to open. And he would never put mustard on them, only ketchup.",
+        "POS": {
+            "noun": [
+                "a fervent and even militant proponent of something"
+            ]
+        },
+        "example": []
+    },
+    "mesmerize": {
+        "meaning": "attract strongly, as if with a magnet",
+        "breif": "You meet someone and you can\u2019t take your eyes off them, like you are connected by an invisible cord and can\u2019t break free.  Those kinds of people have the power to mesmerize, holding your attention like you\u2019re under hypnosis.",
+        "POS": {
+            "verb": [
+                "attract strongly, as if with a magnet",
+                "induce hypnosis in"
+            ]
+        },
+        "example": []
+    },
+    "paragon": {
+        "meaning": "a perfect embodiment of a concept",
+        "breif": "Paragon applies to someone who is a model of perfection in some quality or trait. We link paragon with other words that follow it, such as \"paragon of virtue\" or \"paragon of patience.\"",
+        "POS": {
+            "noun": [
+                "an ideal instance; a perfect embodiment of a concept",
+                "model of excellence or perfection of a kind; one having no equal"
+            ]
+        },
+        "example": []
+    },
+    "dilettante": {
+        "meaning": "an amateur engaging in an activity without serious intention",
+        "breif": "Though dilettante might sound like a nice French word, don't use it on your friend who thinks he can play the guitar after several short lessons. A dilettante is an amateur, often one who pretends to be very knowledgeable.",
+        "POS": {
+            "noun": [
+                "an amateur who engages in an activity without serious intentions and who pretends to have knowledge"
+            ],
+            "adjective": [
+                "showing frivolous or superficial interest; amateurish"
+            ]
+        },
+        "example": []
+    },
+    "hyperbole": {
+        "meaning": "extravagant exaggeration",
+        "breif": "Praising your favorite sports team is one thing, but if you call the team the most incredible group of humans ever to walk the earth, then you're going overboard and indulging in hyperbole.",
+        "POS": {
+            "noun": [
+                "extravagant exaggeration"
+            ]
+        },
+        "example": []
+    },
+    "extravagant": {
+        "meaning": "recklessly wasteful",
+        "breif": "Extravagant is an adjective that means expensive, excessive, and over the top. A modest chandelier in your dining room is normal. But crystal-studded walls and gold-plated goblets? That's a bit extravagant.",
+        "POS": {
+            "adjective": [
+                "recklessly wasteful",
+                "extremely or unreasonably high in price",
+                "greatly exceeding bounds of reason or moderation",
+                "characterized by extravagance and profusion",
+                "unrestrained, especially with regard to feelings"
+            ]
+        },
+        "example": [
+            "extravagant praise"
+        ]
+    },
+    "pedant": {
+        "meaning": "a person who pays too much attention to formal rules",
+        "breif": "A pedant is an annoying person who is focused on minor details and book knowledge rather than ordinary common sense. In war, it can be dangerous to have a pedant as commander \u2014 he'll insist on textbook maneuvers instead of adapting to circumstances on the ground.",
+        "POS": {
+            "noun": [
+                "a person who pays more attention to formal rules and book learning than they merit"
+            ]
+        },
+        "example": []
+    },
+    "apotheosis": {
+        "meaning": "model of excellence or perfection of a kind",
+        "breif": "If your teacher says the term paper you handed in last week is a work of genius that sets a new gold standard for the school, he's telling you your work is the apotheosis of term papers. The epitome. Perfection.",
+        "POS": {
+            "noun": [
+                "model of excellence or perfection of a kind; one having no equal",
+                "the elevation of a person (as to the status of a god)"
+            ]
+        },
+        "example": []
+    },
+    "sycophant": {
+        "meaning": "a person who tries to please someone to gain an advantage",
+        "breif": "A sycophant is a person who tries to win favor from wealthy or influential people by flattering them. Also known as brown-nosers, teacher's pets or suck-ups.",
+        "POS": {
+            "noun": [
+                "a person who tries to please someone in order to gain a personal advantage"
+            ]
+        },
+        "example": []
+    },
+    "dogma": {
+        "meaning": "a doctrine or code of beliefs accepted as authoritative",
+        "breif": "Dogma means the doctrine of belief in a religion or a political system.",
+        "POS": {
+            "noun": [
+                "a doctrine or code of beliefs accepted as authoritative",
+                "a religious doctrine that is proclaimed as true without proof"
+            ]
+        },
+        "example": [
+            "he believed all the Marxist dogma"
+        ]
+    },
+    "misanthrope": {
+        "meaning": "someone who dislikes people in general",
+        "breif": "A misanthrope is a person who hates or mistrusts other people. Your great aunt Edna who lashes out at anyone who approaches, convinced they'll steal the jewelry she keeps in her handbag on her lap? A misanthrope indeed.",
+        "POS": {
+            "noun": [
+                "someone who dislikes people in general"
+            ]
+        },
+        "example": []
+    },
+    "dissonance": {
+        "meaning": "disagreeable sounds",
+        "breif": "Disagreeable sounds can be called dissonance. You know it's dissonance if you have the strong desire to cover your ears with your hands.",
+        "POS": {
+            "noun": [
+                "disagreeable sounds",
+                "the auditory experience of sound that lacks musical quality; sound that is a disagreeable auditory experience",
+                "a conflict of people's opinions or actions or characters"
+            ]
+        },
+        "example": []
+    },
+    "histrionic": {
+        "meaning": "overly dramatic or emotional",
+        "breif": "Anything that has to do with actors or acting can be called  histrionic, like a Broadway actor's histrionic voice projection that would sound strange in everyday life but is perfect for the stage.",
+        "POS": {
+            "adjective": [
+                "overly dramatic or emotional",
+                "characteristic of acting or a stage performance; affected"
+            ]
+        },
+        "example": [
+            "histrionic gestures"
+        ]
+    },
+    "esoteric": {
+        "meaning": "understandable only by an enlightened inner circle",
+        "breif": "Pssst... do you know the secret handshake? If you haven't been brought into the inner circle of those with special knowledge, esoteric things will remain a mystery to you.",
+        "POS": {
+            "adjective": [
+                "confined to and understandable by only an enlightened inner circle"
+            ]
+        },
+        "example": [
+            "a compilation of esoteric philosophical theories"
+        ]
+    },
+    "nuance": {
+        "meaning": "a subtle difference in meaning or opinion or attitude",
+        "breif": "Use nuance to refer to a very small difference in color, meaning, or feeling. What makes singers brilliant is not how loud they can sing a note, but how many nuances they can evoke through their approach.",
+        "POS": {
+            "noun": [
+                "a subtle difference in meaning or opinion or attitude"
+            ]
+        },
+        "example": [
+            "without understanding the finer nuances you can't enjoy the humor"
+        ]
+    },
+    "aficionado": {
+        "meaning": "a serious devotee of some activity, genre, or performer",
+        "breif": "If you really like something and make it your business to study up on its history and characteristics, you could be called an aficionado of that subject.",
+        "POS": {
+            "noun": [
+                "a serious devotee of some particular music genre or musical performer",
+                "a fan of bull fighting"
+            ]
+        },
+        "example": []
+    },
+    "idiosyncratic": {
+        "meaning": "peculiar to the individual",
+        "breif": "Idiosyncratic means unique to an individual. Albert Einstein famously had lots of idiosyncratic habits.  For example, he rarely wore socks, and he talked to his cat.",
+        "POS": {
+            "adjective": [
+                "peculiar to the individual"
+            ]
+        },
+        "example": [
+            "we all have our own idiosyncratic gestures"
+        ]
+    },
+    "rubric": {
+        "meaning": "category name",
+        "breif": "A rubric is a heading or a category in a chart, or a rule of conduct. A teacher's grading rubrics may include participation, homework completion, tests, quizzes, and papers.",
+        "POS": {
+            "noun": [
+                "category name",
+                "a title or heading that is printed in red or in a special type",
+                "a heading that names a statute or legislative bill; may give a brief summary of the matters it deals with",
+                "an authoritative rule of conduct or procedure",
+                "directions for the conduct of Christian church services (often printed in red in a prayer book)",
+                "an explanation or definition of an obscure word in a text"
+            ],
+            "verb": [
+                "adorn with ruby red color"
+            ]
+        },
+        "example": [
+            "it is usually discussed under the rubric of `functional obesity'"
+        ]
+    },
+    "travesty": {
+        "meaning": "a composition that imitates or misrepresents a style",
+        "breif": "A travesty is a cheap mockery, usually of something or someone serious, such as a travesty of justice.",
+        "POS": {
+            "noun": [
+                "a composition that imitates or misrepresents somebody's style, usually in a humorous way",
+                "a comedy characterized by broad satire and improbable situations",
+                "a distorted, debased, or absurd imitation of something"
+            ],
+            "verb": [
+                "make a travesty of"
+            ]
+        },
+        "example": []
+    },
+    "prescience": {
+        "meaning": "the power to foresee the future",
+        "breif": "Do you already know what happens tomorrow? Next week? Next year? If you can see into the future, then you have prescience.",
+        "POS": {
+            "noun": [
+                "the power to foresee the future"
+            ]
+        },
+        "example": []
+    },
+    "equivocate": {
+        "meaning": "be deliberately ambiguous or unclear",
+        "breif": "When you are unwilling to make a decision and almost intentionally go back and forth between two choices, you are equivocating. When politicians equivocate, they are often afraid of upsetting, and thus alienating, voters with their decisions.",
+        "POS": {
+            "verb": [
+                "be deliberately ambiguous or unclear in order to mislead or withhold information"
+            ]
+        },
+        "example": []
+    },
+    "vexation": {
+        "meaning": "anger produced by some annoying irritation",
+        "breif": "Vexation is both something that causes annoyance and the state of mind that results from being annoyed. The test-taker next to you tapping her pencil is a vexation. You breaking her pencil in half makes her feel vexation.",
+        "POS": {
+            "noun": [
+                "anger produced by some annoying irritation",
+                "the psychological state of being irritated or annoyed",
+                "something or someone that causes anxiety; a source of unhappiness",
+                "the act of troubling or annoying someone"
+            ]
+        },
+        "example": []
+    },
+    "obduracy": {
+        "meaning": "resoluteness by virtue of being unyielding and inflexible",
+        "breif": "",
+        "POS": {
+            "noun": [
+                "resoluteness by virtue of being unyielding and inflexible"
+            ]
+        },
+        "example": []
+    },
+    "fiefdom": {
+        "meaning": "the domain controlled by a feudal lord",
+        "breif": "",
+        "POS": {
+            "noun": [
+                "the domain controlled by a feudal lord",
+                "an organization that is controlled by a dominant person or group"
+            ]
+        },
+        "example": []
+    },
+    "anachronism": {
+        "meaning": "locating something at a time when it couldn't have existed",
+        "breif": "An anachronism is something that doesn't fit its time period, like if you say you'll \"dial\" your smartphone.",
+        "POS": {
+            "noun": [
+                "the act of locating something at a time when it could not have existed or occurred",
+                "an artifact that belongs to another time",
+                "a person who seems to be displaced in time; who belongs to another age"
+            ]
+        },
+        "example": []
+    },
+    "egregious": {
+        "meaning": "conspicuously and outrageously bad or reprehensible",
+        "breif": "Something that is egregious stands out, but not in a good way \u2014 it means \"really bad or offensive.\" If you make an egregious error during a championship soccer match, your coach might bench you for the rest of the game.",
+        "POS": {
+            "adjective": [
+                "conspicuously and outrageously bad or reprehensible"
+            ]
+        },
+        "example": [
+            "an egregious lie"
+        ]
+    },
+    "profusion": {
+        "meaning": "the property of being extremely abundant",
+        "breif": "If there's an abundance of something, you can say that there's a profusion of it. Hilarious and bizarre YouTube videos certainly exist in profusion.",
+        "POS": {
+            "noun": [
+                "the property of being extremely abundant"
+            ]
+        },
+        "example": [
+            "the profusion of detail"
+        ]
+    },
+    "acrimony": {
+        "meaning": "a rough and bitter manner",
+        "breif": "Acrimony is bitterness, or ill will. Acrimony is a spiteful word. It sounds bitter, like acid.",
+        "POS": {
+            "noun": [
+                "a rough and bitter manner"
+            ]
+        },
+        "example": []
+    },
+    "exacerbate": {
+        "meaning": "make worse",
+        "breif": "For a formal-sounding verb that means to make worse, try exacerbate. If you're in trouble, complaining about it will only exacerbate the problem.",
+        "POS": {
+            "verb": [
+                "make worse",
+                "exasperate or irritate"
+            ]
+        },
+        "example": []
+    },
+    "curmudgeon": {
+        "meaning": "an irascible, cantankerous person full of stubborn ideas",
+        "breif": "Old, cranky, and more than a little stubborn, a curmudgeon is the gruff, grey-haired neighbor who refuses to hand out candy at Halloween and shoos away holiday carolers with a \"bah humbug!\"",
+        "POS": {
+            "noun": [
+                "a crusty irascible cantankerous old person full of stubborn ideas"
+            ]
+        },
+        "example": []
+    },
+    "innocuous": {
+        "meaning": "not injurious to physical or mental health",
+        "breif": "Something that's innocuous isn't harmful or likely to cause injury. Public figures like mayors and governors have to expect they'll get critical or even hurtful emails and phone calls, as well as more innocuous feedback.",
+        "POS": {
+            "adjective": [
+                "not injurious to physical or mental health",
+                "lacking intent or capacity to injure",
+                "not causing disapproval"
+            ]
+        },
+        "example": [
+            "it was an innocuous remark"
+        ]
+    },
+    "anathema": {
+        "meaning": "a formal ecclesiastical curse accompanied by excommunication",
+        "breif": "Something that one absolutely and positively cannot stand is anathema. Garlic is anathema to vampires (ditto for stakes and daylight). So is kryptonite to Superman or a silver bullet to a werewolf.",
+        "POS": {
+            "noun": [
+                "a formal ecclesiastical curse accompanied by excommunication",
+                "a detested person or thing",
+                "something that inspires dislike; something horrible"
+            ]
+        },
+        "example": [
+            "he is an anathema to me"
+        ]
+    },
+    "haughty": {
+        "meaning": "having or showing arrogant superiority",
+        "breif": "Someone who is haughty is arrogant and full of pride. When you're haughty, you have a big attitude and act like you're better than other people.",
+        "POS": {
+            "adjective": [
+                "having or showing arrogant superiority to and disdain of those one views as unworthy"
+            ]
+        },
+        "example": [
+            "haughty aristocrats"
+        ]
+    },
+    "asceticism": {
+        "meaning": "rigorous self-denial and active self-restraint",
+        "breif": "Asceticism is rigorous self-denial, particularly the rejection of the pleasures of the world. If you don't drink, smoke, eat sugar, see movies, use the internet, or have a cell phone, then you are already practicing a kind of asceticism.",
+        "POS": {
+            "noun": [
+                "rigorous self-denial and active self-restraint",
+                "the trait of great self-denial (especially refraining from worldly pleasures)",
+                "the doctrine that through renunciation of worldly pleasures it is possible to achieve a high spiritual or intellectual state"
+            ]
+        },
+        "example": []
+    },
+    "imprimatur": {
+        "meaning": "formal and explicit approval",
+        "breif": "If you give something your imprimatur, you give it your formal support or approval. An imprimatur is a fancy version of a thumbs-up sign.",
+        "POS": {
+            "noun": [
+                "formal and explicit approval"
+            ]
+        },
+        "example": []
+    },
+    "sardonic": {
+        "meaning": "disdainfully or ironically humorous",
+        "breif": "If someone is being scornful and mocking in a humorous way, call her sardonic. If you want to write comic sketches for late-night talk shows, work on being sardonic.",
+        "POS": {
+            "adjective": [
+                "disdainfully or ironically humorous; scornful and mocking"
+            ]
+        },
+        "example": [
+            "\"his rebellion is the bitter, sardonic laughter of all great satirists\"- Frank Schoenberner"
+        ]
+    },
+    "ameliorate": {
+        "meaning": "make better",
+        "breif": "To ameliorate is to step in and make a bad situation better. You could try introducing a second lollipop to ameliorate a battle between two toddlers over a single lollipop.",
+        "POS": {
+            "verb": [
+                "make better",
+                "get better"
+            ]
+        },
+        "example": []
+    },
+    "turpitude": {
+        "meaning": "a corrupt or depraved or degenerate act or practice",
+        "breif": "If you are guilty of turpitude, you should be ashamed of yourself. Turpitude is a word that represents depraved behavior. Prisons are filled with criminals who have engaged in acts of moral turpitude.",
+        "POS": {
+            "noun": [
+                "a corrupt or depraved or degenerate act or practice"
+            ]
+        },
+        "example": [
+            "the various turpitudes of modern society"
+        ]
+    },
+    "dalliance": {
+        "meaning": "the act of delaying and playing instead of working",
+        "breif": "A dalliance is a playful flirtation, one that might lead to a casual romance. The king's public dalliance toward the lady in waiting shocked everyone in the court except for the queen.",
+        "POS": {
+            "noun": [
+                "the deliberate act of delaying and playing instead of working",
+                "playful behavior intended to arouse romantic interest"
+            ]
+        },
+        "example": []
+    },
+    "autodidact": {
+        "meaning": "a person who has taught himself",
+        "breif": "If you're an autodidact you've done most of your learning on your own, outside of school. Having learned Greek and Latin, as well as landscape painting and auto repair, without any formal training makes you quite the autodidact.",
+        "POS": {
+            "noun": [
+                "a person who has taught himself"
+            ]
+        },
+        "example": []
+    },
+    "evanescent": {
+        "meaning": "short-lived; tending to vanish or disappear",
+        "breif": "A beautiful sunset, a rainbow, a wonderful dream right before your alarm clock goes off \u2014 all of these could be described as evanescent, which means \u201cfleeting\u201d or \u201ctemporary.\u201d",
+        "POS": {
+            "adjective": [
+                "tending to vanish like vapor"
+            ]
+        },
+        "example": [
+            "evanescent beauty"
+        ]
+    },
+    "interlude": {
+        "meaning": "an intervening period or episode",
+        "breif": "An interlude is a brief period of time that comes in the middle of something. You might enjoy a relaxing lemonade interlude in the middle of a tough day at your road-paving job.",
+        "POS": {
+            "noun": [
+                "an intervening period or episode",
+                "a brief show (music or dance etc) inserted between the sections of a longer performance"
+            ],
+            "verb": [
+                "perform an interlude"
+            ]
+        },
+        "example": [
+            "The guitar player interluded with a beautiful improvisation"
+        ]
+    },
+    "demure": {
+        "meaning": "shy or modest, often in a playful or provocative way",
+        "breif": "A demure person can be described as polite and a little shy. A demure outfit is a modest one \u2014 think high neckline and low hem.",
+        "POS": {
+            "adjective": [
+                "affectedly modest or shy especially in a playful or provocative way",
+                "(used especially of clothing) suggestive of modesty or reserve"
+            ]
+        },
+        "example": []
+    },
+    "mellifluous": {
+        "meaning": "pleasing to the ear",
+        "breif": "Use the adjective mellifluous to describe something that sounds sweet and smooth, like the honeyed voice of a late-night radio DJ.",
+        "POS": {
+            "adjective": [
+                "pleasing to the ear"
+            ]
+        },
+        "example": []
+    },
+    "felicity": {
+        "meaning": "pleasing and appropriate manner or style",
+        "breif": "Felicity is a state of happiness or the quality of joy. Sitting on the roof with a telescope and iced tea on a clear, starry night is one way to find perfect felicity \u2014 a happy place.",
+        "POS": {
+            "noun": [
+                "pleasing and appropriate manner or style (especially manner or style of expression)",
+                "state of well-being characterized by emotions ranging from contentment to intense joy"
+            ]
+        },
+        "example": []
+    },
+    "imbroglio": {
+        "meaning": "an intricate and confusing interpersonal situation",
+        "breif": "An imbroglio is a complicated or confusing personal situation. To rephrase the J. Geils band song, \"Love Stinks,\" if you love her and she loves him and he loves somebody else, you've got quite an imbroglio.",
+        "POS": {
+            "noun": [
+                "an intricate and confusing interpersonal or political situation",
+                "a very embarrassing misunderstanding"
+            ]
+        },
+        "example": []
+    },
+    "insouciance": {
+        "meaning": "a casual or lighthearted feeling of unconcern",
+        "breif": "Insouciance is a feeling of careless indifference. There's a certain amount of lightheartedness in insouciance, but rather than merely being cheerful, someone with insouciance truly couldn't care less.",
+        "POS": {
+            "noun": [
+                "the cheerful feeling you have when nothing is troubling you"
+            ]
+        },
+        "example": []
+    },
+    "lassitude": {
+        "meaning": "a feeling of lack of interest or energy",
+        "breif": "If you are feeling lassitude, you're weary and just can't be bothered. Couch potatoes make lassitude into an art form.",
+        "POS": {
+            "noun": [
+                "a feeling of lack of interest or energy",
+                "weakness characterized by a lack of vitality or energy",
+                "a state of comatose torpor (as found in sleeping sickness)"
+            ]
+        },
+        "example": []
+    },
+    "lucid": {
+        "meaning": "transparently clear; easily understandable",
+        "breif": "Something that's lucid is clear and understandable. Lucid writing is important in journalism, so that readers easily get the point of the article they're reading.",
+        "POS": {
+            "adjective": [
+                "(of language) transparently clear; easily understandable",
+                "having a clear mind",
+                "capable of thinking and expressing yourself in a clear and consistent manner",
+                "transmitting light; able to be seen through with clarity"
+            ]
+        },
+        "example": [
+            "lucid directions",
+            "a lucid moment in his madness",
+            "a lucid thinker",
+            "lucid air"
+        ]
+    },
+    "elysian": {
+        "meaning": "relating to the abode of the blessed after death",
+        "breif": "The adjective elysian describes a blissful state, like the one most people hope to enjoy on a Hawaiian vacation.",
+        "POS": {
+            "adjective": [
+                "relating to the Elysian Fields",
+                "being of such surpassing excellence as to suggest inspiration by the gods"
+            ]
+        },
+        "example": [
+            "an elysian meal"
+        ]
+    },
+    "neophyte": {
+        "meaning": "a participant with no experience with an activity",
+        "breif": "A neophyte is someone who's brand new at something. You're a neophyte the first time you pick up a guitar and start learning to play.",
+        "POS": {
+            "noun": [
+                "a participant with no experience with an activity",
+                "a new convert being taught the principles of Christianity by a catechist",
+                "a plant that is found in an area where it had not been recorded previously"
+            ]
+        },
+        "example": []
+    },
+    "rapture": {
+        "meaning": "a state of being carried away by overwhelming emotion",
+        "breif": "Rapture is a feeling of emotional ecstasy so magical it's almost as if you've been transported to some other world.",
+        "POS": {
+            "noun": [
+                "a state of being carried away by overwhelming emotion",
+                "a state of elated bliss"
+            ]
+        },
+        "example": [
+            "\"listening to sweet music in a perfect rapture\"- Charles Dickens"
+        ]
+    },
+    "evocative": {
+        "meaning": "serving to bring to mind",
+        "breif": "Use the adjective evocative when you want to describe something that reminds you of something else. If your mom baked a lot when you were a kid, the smell of cookies in the oven is probably evocative of your childhood.",
+        "POS": {
+            "adjective": [
+                "serving to bring to mind"
+            ]
+        },
+        "example": []
+    },
+    "antipathy": {
+        "meaning": "a feeling of intense dislike",
+        "breif": "An antipathy is a deep-seated dislike of something or someone. Usually it's a condition that is long-term, innate, and pretty unlikely to change \u2014 like your antipathy for the Red Sox.",
+        "POS": {
+            "noun": [
+                "a feeling of intense dislike",
+                "the object of a feeling of intense aversion; something to be avoided"
+            ]
+        },
+        "example": [
+            "cats were his greatest antipathy"
+        ]
+    },
+    "affinity": {
+        "meaning": "a natural attraction or feeling of kinship",
+        "breif": "If you get along with someone very well, you have an affinity with them. Sometimes opposites attract, so you might feel a strange affinity to someone who is seemingly very different from you.",
+        "POS": {
+            "noun": [
+                "a natural attraction or feeling of kinship",
+                "a close connection marked by community of interests or similarity in nature or character",
+                "(anthropology) kinship by marriage or adoption; not a blood relationship",
+                "(biology) state of relationship between organisms or groups of organisms resulting in resemblance in structure or structural parts",
+                "inherent resemblance between persons or things",
+                "the force attracting atoms to each other and binding them together in a molecule",
+                "(immunology) the attraction between an antigen and an antibody"
+            ]
+        },
+        "example": [
+            "an affinity for politics",
+            "found a natural affinity with the immigrants",
+            "in anatomical structure prehistoric man shows close affinity with modern humans",
+            "basic dyes have an affinity for wool and silk"
+        ]
+    },
+    "empathy": {
+        "meaning": "understanding and entering into another's feelings",
+        "breif": "Use empathy if you're looking for a noun meaning \"the ability to identify with another's feelings.\"",
+        "POS": {
+            "noun": [
+                "understanding and entering into another's feelings"
+            ]
+        },
+        "example": []
+    },
+    "anomaly": {
+        "meaning": "deviation from the normal or common order, form, or rule",
+        "breif": "An anomaly is an abnormality, a blip on the screen of life that doesn\u2019t fit with the rest of the pattern. If you are a breeder of black dogs and one puppy comes out pink, that puppy is an anomaly.",
+        "POS": {
+            "noun": [
+                "deviation from the normal or common order or form or rule",
+                "a person who is unusual",
+                "(astronomy) position of a planet as defined by its angular distance from its perihelion (as observed from the sun)"
+            ]
+        },
+        "example": []
+    },
+    "hoi polloi": {
+        "meaning": "the common people generally",
+        "breif": "The hoi polloi is a way of referring to common people, and it is an elitist term usually used by people who consider themselves to be above the masses.",
+        "POS": {
+            "noun": [
+                "the common people generally"
+            ]
+        },
+        "example": []
+    },
+    "paramount": {
+        "meaning": "more important than anything else; supreme",
+        "breif": "To the President, protecting our nation's security is of paramount importance \u2014 it's at the very top of his to-do list.",
+        "POS": {
+            "adjective": [
+                "more important than anything else; supreme",
+                "having superior power or influence"
+            ]
+        },
+        "example": []
+    },
+    "antagonize": {
+        "meaning": "provoke the hostility of",
+        "breif": "To antagonize is to provoke someone to react angrily. If your mother tells you to stop antagonizing your brother, she's asking you to stop making him mad.",
+        "POS": {
+            "verb": [
+                "provoke the hostility of",
+                "act in opposition to"
+            ]
+        },
+        "example": [
+            "Don't antagonize your boss"
+        ]
+    },
+    "arrant": {
+        "meaning": "complete and without qualification",
+        "breif": "The word arrant intensifies. An arrant criminal is one heck of a criminal. Arrant nonsense is total nonsense.",
+        "POS": {
+            "adjective": [
+                "without qualification; used informally as (often pejorative) intensifiers"
+            ]
+        },
+        "example": [
+            "an arrant fool"
+        ]
+    },
+    "errant": {
+        "meaning": "straying from the right course or from accepted standards",
+        "breif": "Something or someone described as errant has gone astray or done wrong by going in an unexpected direction. An errant bird might end up in northern Canada while his friends fly to southern Mexico for the winter.",
+        "POS": {
+            "adjective": [
+                "straying from the right course or from accepted standards",
+                "moving in an uncontrolled, irregular, or unpredictable way",
+                "traveling from place to place, especially in search of adventure"
+            ]
+        },
+        "example": [
+            "errant youngsters",
+            "an errant breeze"
+        ]
+    },
+    "adulterate": {
+        "meaning": "make impure by adding a foreign or inferior substance",
+        "breif": "If you adulterate something, you mess it up. You may not want to adulterate the beauty of freshly fallen snow by shoveling it, but how else are you going to get to work?",
+        "POS": {
+            "verb": [
+                "corrupt, debase, or make impure by adding a foreign or inferior substance; often by replacing valuable ingredients with inferior ones"
+            ],
+            "adjective": [
+                "mixed with impurities"
+            ]
+        },
+        "example": []
+    },
+    "bedaze": {
+        "meaning": "overcome as with astonishment or disbelief",
+        "breif": "",
+        "POS": {
+            "verb": [
+                "overcome as with astonishment or disbelief"
+            ]
+        },
+        "example": []
+    },
+    "craven": {
+        "meaning": "lacking even the rudiments of courage; abjectly fearful",
+        "breif": "A craven man is no Superman or Spiderman, nor is he a firefighter or a soldier. A craven man is the opposite of those guys: he has not an ounce of courage.",
+        "POS": {
+            "adjective": [
+                "lacking even the rudiments of courage; abjectly fearful"
+            ],
+            "noun": [
+                "an abject coward"
+            ]
+        },
+        "example": [
+            "the craven fellow turned and ran"
+        ]
+    },
+    "prevaricate": {
+        "meaning": "be deliberately ambiguous or unclear",
+        "breif": "When you prevaricate, you lie or mislead. Now, go ahead and tell me whether you already knew that meaning, and don\u2019t prevaricate about it \u2014 give me the story straight!",
+        "POS": {
+            "verb": [
+                "be deliberately ambiguous or unclear in order to mislead or withhold information"
+            ]
+        },
+        "example": []
+    },
+    "gregarious": {
+        "meaning": "temperamentally seeking and enjoying the company of others",
+        "breif": "If you know someone who's outgoing, sociable, and fond of the company of others, you might want to call her gregarious.",
+        "POS": {
+            "adjective": [
+                "instinctively or temperamentally seeking and enjoying the company of others",
+                "(of animals) tending to form a group with others of the same species",
+                "(of plants) growing in groups that are close together"
+            ]
+        },
+        "example": [
+            "he is a gregarious person who avoids solitude",
+            "gregarious bird species"
+        ]
+    },
+    "iconoclast": {
+        "meaning": "someone who attacks cherished ideas or institutions",
+        "breif": "Are you always challenging the establishment? Or provoking popular thought by attacking traditions and institutions? Then you're definitely an iconoclast.",
+        "POS": {
+            "noun": [
+                "someone who attacks cherished ideas or traditional institutions",
+                "a destroyer of images used in religious worship"
+            ]
+        },
+        "example": []
+    },
+    "assail": {
+        "meaning": "attack someone physically or emotionally",
+        "breif": "To assail is to attack or assault \u2014 with throwing stars, fists, words or, less tangibly but just as violently, with troubles or doubts.",
+        "POS": {
+            "verb": [
+                "attack someone physically or emotionally",
+                "attack in speech or writing",
+                "launch an attack or assault on; begin hostilities or start warfare with"
+            ]
+        },
+        "example": [
+            "Nightmares assailed him regularly",
+            "Serbian forces assailed Bosnian towns all week"
+        ]
+    },
+    "denounce": {
+        "meaning": "speak out against",
+        "breif": "To denounce is to tattle, rat out, or speak out against something. When you stand on your desk and tell the class that your partner is cheating, you denounce him or her.",
+        "POS": {
+            "verb": [
+                "speak out against",
+                "accuse or condemn openly or formally as disgraceful",
+                "give away information about somebody",
+                "announce the termination of, as of treaties"
+            ]
+        },
+        "example": [
+            "He denounced the Nazis",
+            "He denounced the government action"
+        ]
+    },
+    "castigate": {
+        "meaning": "inflict severe punishment on",
+        "breif": "Use castigate  when you mean \"to reprimand in an especially harsh way.\" If you accidentally spill coffee all over your sister's favorite sweater, you might worry that she's going to castigate you as soon as she finds out.",
+        "POS": {
+            "verb": [
+                "inflict severe punishment on",
+                "censure severely"
+            ]
+        },
+        "example": []
+    },
+    "diatribe": {
+        "meaning": "thunderous verbal attack",
+        "breif": "It's pretty overwhelming when you ask your friend a seemingly innocuous question, like \"Do you like hot dogs?\" and she unleashes a diatribe about the evils of eating meat. A diatribe is an angry, critical speech.",
+        "POS": {
+            "noun": [
+                "thunderous verbal attack"
+            ]
+        },
+        "example": []
+    },
+    "excoriate": {
+        "meaning": "express strong disapproval of",
+        "breif": "When it comes to \u201ctelling someone off,\u201d excoriate is reserved for the most severe cases. So, before you excoriate your little sister for borrowing your favorite jacket without permission, consider whether she truly deserves such harsh treatment.",
+        "POS": {
+            "verb": [
+                "express strong disapproval of",
+                "tear or wear off the skin or make sore by abrading"
+            ]
+        },
+        "example": []
+    },
+    "fulminate": {
+        "meaning": "cause to explode violently and with loud noise",
+        "breif": "Watch a bomb fulminate or explode and hope you're under safe cover. Have your parents fulminate or blow up at you for coming home past curfew and hope you're not grounded for too long.",
+        "POS": {
+            "verb": [
+                "cause to explode violently and with loud noise",
+                "come on suddenly and intensely",
+                "criticize severely"
+            ],
+            "noun": [
+                "a salt or ester of fulminic acid"
+            ]
+        },
+        "example": [
+            "the disease fulminated",
+            "He fulminated against the Republicans' plan to cut Medicare"
+        ]
+    },
+    "bombastic": {
+        "meaning": "ostentatiously lofty in style",
+        "breif": "To be bombastic is to be full of hot air \u2014 like a politician who makes grand promises and doesn't deliver.",
+        "POS": {
+            "adjective": [
+                "ostentatiously lofty in style"
+            ]
+        },
+        "example": []
+    },
+    "lambaste": {
+        "meaning": "censure severely or angrily",
+        "breif": "To lambaste is to reprimand or berate someone severely. People lambaste those who have angered or disappointed them.",
+        "POS": {
+            "verb": [
+                "censure severely or angrily",
+                "beat with a cane"
+            ]
+        },
+        "example": []
+    },
+    "revile": {
+        "meaning": "spread negative information about",
+        "breif": "If something is reviled, you alone don\u2019t dislike it; a whole community of like-minded souls has to hate its guts. For instance, spam is widely reviled. (The junk e-mails, not the potted meat. Somebody out there really does like that potted meat.)",
+        "POS": {
+            "verb": [
+                "spread negative information about"
+            ]
+        },
+        "example": []
+    },
+    "tirade": {
+        "meaning": "a speech of violent denunciation",
+        "breif": "A tirade is a speech, usually consisting of a long string of violent, emotionally charged words. Borrow and lose your roommate\u2019s clothes one too many times, and you can bet you\u2019ll be treated to a heated tirade.",
+        "POS": {
+            "noun": [
+                "a speech of violent denunciation"
+            ]
+        },
+        "example": []
+    },
+    "upbraid": {
+        "meaning": "express criticism towards",
+        "breif": "No, upbraid isn\u2019t an elaborate hairdo. When you upbraid people, you scold them, tell them off, and criticize them. (You could, however, upbraid your stylist after a bad haircut.)",
+        "POS": {
+            "verb": [
+                "express criticism towards"
+            ]
+        },
+        "example": []
+    },
+    "drub": {
+        "meaning": "beat thoroughly and conclusively in a competition or fight",
+        "breif": "",
+        "POS": {
+            "verb": [
+                "beat thoroughly and conclusively in a competition or fight"
+            ]
+        },
+        "example": []
+    },
+    "pulverize": {
+        "meaning": "make into a powder by breaking up or cause to become dust",
+        "breif": "When you pulverize something, you break it up until it becomes dust or powder. You might pulverize coffee beans in grinder, running it until the coffee turns to powder.",
+        "POS": {
+            "verb": [
+                "make into a powder by breaking up or cause to become dust",
+                "become powder or dust",
+                "destroy completely"
+            ]
+        },
+        "example": [
+            "pulverize the grains",
+            "pulverize the rebellion before it gets out of hand"
+        ]
+    },
+    "subjugate": {
+        "meaning": "make subservient; force to submit or subdue",
+        "breif": "If you say you won't be kept down by the man, you are saying that you won't let the man subjugate you. To subjugate is to repress someone, or to make them subservient to you.",
+        "POS": {
+            "verb": [
+                "make subservient; force to submit or subdue",
+                "put down by force or intimidation"
+            ]
+        },
+        "example": [
+            "The rich landowners subjugated the peasants working the land"
+        ]
+    },
+    "vanquish": {
+        "meaning": "defeat in a competition, race, or conflict",
+        "breif": "To vanquish is to be the complete and total winner, to overpower and overcome, whether in a contest, a race, or a war. It generally suggests a total trouncing, to the point of humiliation \u2014 or worse \u2014 for the loser.",
+        "POS": {
+            "verb": [
+                "come out better in a competition, race, or conflict"
+            ]
+        },
+        "example": []
+    },
+    "capitulate": {
+        "meaning": "surrender under agreed conditions",
+        "breif": "To capitulate means to give in to something. If your parents refuse to raise your allowance, you might try to argue until they capitulate. Good luck!",
+        "POS": {
+            "verb": [
+                "surrender under agreed conditions"
+            ]
+        },
+        "example": []
+    },
+    "axiom": {
+        "meaning": "a proposition that is not susceptible of proof or disproof",
+        "breif": "An axiom is a statement that everyone believes is true, such as \"the only constant is change.\" Mathematicians use the word axiom to refer to an established proof.",
+        "POS": {
+            "noun": [
+                "(logic) a proposition that is not susceptible of proof or disproof; its truth is assumed to be self-evident",
+                "a saying that is widely accepted on its own merits"
+            ]
+        },
+        "example": []
+    },
+    "approbation": {
+        "meaning": "official acceptance or agreement",
+        "breif": "Approbation is a formal word for approval or praise. Approbation is like getting the nod in a big way. Politicians rely on the public\u2019s approbation to get elected.",
+        "POS": {
+            "noun": [
+                "official approval",
+                "official recognition or approval"
+            ]
+        },
+        "example": []
+    },
+    "belligerent": {
+        "meaning": "characteristic of an enemy or one eager to fight",
+        "breif": "If someone is belligerent, they're eager to fight. It's a good idea to avoid hardcore hockey fans after their team loses \u2014 they tend to be belligerent.",
+        "POS": {
+            "adjective": [
+                "characteristic of an enemy or one eager to fight",
+                "engaged in war"
+            ],
+            "noun": [
+                "someone who fights (or is fighting)"
+            ]
+        },
+        "example": [
+            "a belligerent tone",
+            "belligerent (or warring) nations"
+        ]
+    },
+    "capricious": {
+        "meaning": "determined by chance or impulse rather than by necessity",
+        "breif": "Capricious is an adjective to describe a person or thing that's impulsive and unpredictable, like a bride who suddenly leaves her groom standing at the wedding altar.",
+        "POS": {
+            "adjective": [
+                "determined by chance or impulse or whim rather than by necessity or reason",
+                "changeable"
+            ]
+        },
+        "example": [
+            "a capricious refusal",
+            "a capricious summer breeze"
+        ]
+    },
+    "reprimand": {
+        "meaning": "an act or expression of criticism and censure",
+        "breif": "If you're reprimanded, someone in authority speaks to you in an angry way because you've done something wrong. Or you might reprimand your dog if he steals your hot dog.",
+        "POS": {
+            "noun": [
+                "an act or expression of criticism and censure"
+            ],
+            "verb": [
+                "rebuke formally",
+                "censure severely or angrily"
+            ]
+        },
+        "example": []
+    },
+    "naive": {
+        "meaning": "marked by or showing unaffected simplicity",
+        "breif": "No one likes being called naive, since it means you lack sophistication or street smarts.",
+        "POS": {
+            "adjective": [
+                "marked by or showing unaffected simplicity and lack of guile or worldly experience",
+                "lacking information or instruction",
+                "inexperienced",
+                "not initiated; deficient in relevant experience",
+                "of or created by one without formal training; simple or naive in style"
+            ]
+        },
+        "example": [
+            "a teenager's naive ignorance of life",
+            "he took part in the experiment as a naive subject"
+        ]
+    },
+    "impassive": {
+        "meaning": "having or revealing little emotion or sensibility",
+        "breif": "Someone who doesn't seem to react \u2014 who is always \"taking a pass\" in the conversation of life can be described as impassive.",
+        "POS": {
+            "adjective": [
+                "having or revealing little emotion or sensibility; not easily aroused or excited",
+                "deliberately impassive in manner"
+            ]
+        },
+        "example": [
+            "her impassive remoteness"
+        ]
+    },
+    "erratic": {
+        "meaning": "liable to sudden unpredictable change",
+        "breif": "The adjective erratic describes things that are unpredictable, unusual, and that deviate from the norm. An erratic quarterback might completely confuse his receivers waiting for a pass.",
+        "POS": {
+            "adjective": [
+                "liable to sudden unpredictable change",
+                "likely to perform unpredictably",
+                "having no fixed course"
+            ]
+        },
+        "example": [
+            "erratic behavior",
+            "erratic winds are the bane of a sailor",
+            "an erratic comet"
+        ]
+    },
+    "veracity": {
+        "meaning": "unwillingness to tell lies",
+        "breif": "Veracity sounds like some kind of disease you don't want to catch, but in fact, it means truthfulness. If you question the veracity of a statement or story, you wonder whether it is truthful or accurate.",
+        "POS": {
+            "noun": [
+                "unwillingness to tell lies"
+            ]
+        },
+        "example": []
+    },
+    "verbose": {
+        "meaning": "using or containing too many words",
+        "breif": "If you're verbose, you use far more words than you need to. A verbose book report goes on and on and is packed with long, complicated words that aren't at all necessary.",
+        "POS": {
+            "adjective": [
+                "using or containing too many words"
+            ]
+        },
+        "example": [
+            "verbose and ineffective instructional methods"
+        ]
+    },
+    "solicitous": {
+        "meaning": "full of anxiety and concern",
+        "breif": "When you hear the word solicitous, think of your mom \u2014 attentive, caring, and concerned. It's nice when your waiter gives you good service, but if he or she is solicitous, the hovering might annoy you.",
+        "POS": {
+            "adjective": [
+                "full of anxiety and concern",
+                "showing hovering attentiveness"
+            ]
+        },
+        "example": [
+            "solicitous parents",
+            "solicitous about her health"
+        ]
+    },
+    "abscond": {
+        "meaning": "run away, often taking something or somebody along",
+        "breif": "Abscond is to escape, often taking something along. As a kid, you may have absconded from your lemonade stand \u2014 with the coffee can of cash in hand, and your bewildered sister still filling cups for your customers.",
+        "POS": {
+            "verb": [
+                "run away; usually includes taking something or somebody along"
+            ]
+        },
+        "example": [
+            "the accountant absconded with the cash from the safe"
+        ]
+    },
+    "lethargic": {
+        "meaning": "deficient in alertness or activity",
+        "breif": "When you feel lethargic, you're sluggish or lacking energy. Being sleepy or hungry can make anyone lethargic.",
+        "POS": {
+            "adjective": [
+                "deficient in alertness or activity"
+            ]
+        },
+        "example": [
+            "bullfrogs became lethargic with the first cold nights"
+        ]
+    },
+    "disseminate": {
+        "meaning": "cause to become widely known",
+        "breif": "Disseminate means to spread information, knowledge, opinions widely. Semin- derives from the Latin word for seed; the idea with disseminate is that information travels like seeds sown by a farmer.",
+        "POS": {
+            "verb": [
+                "cause to become widely known",
+                "spread by scattering"
+            ]
+        },
+        "example": []
+    },
+    "latent": {
+        "meaning": "potentially existing but not presently evident or realized",
+        "breif": "Latent is an adjective that you use to describe something that is capable of becoming active or at hand, though it is not currently so.",
+        "POS": {
+            "adjective": [
+                "potentially existing but not presently evident or realized",
+                "(pathology) not presently active"
+            ]
+        },
+        "example": [
+            "a latent fingerprint",
+            "latent infection"
+        ]
+    },
+    "aberrant": {
+        "meaning": "markedly different from an accepted norm",
+        "breif": "Use the adjective aberrant to describe unusual conduct. Sitting in a bathtub and singing show tunes all day long might be considered aberrant behavior.",
+        "POS": {
+            "adjective": [
+                "markedly different from an accepted norm"
+            ],
+            "noun": [
+                "one whose behavior departs substantially from the norm of a group"
+            ]
+        },
+        "example": [
+            "aberrant behavior"
+        ]
+    },
+    "ambivalent": {
+        "meaning": "uncertain or unable to decide about what course to follow",
+        "breif": "If you can't decide how you feel about something, declare yourself ambivalent about it.",
+        "POS": {
+            "adjective": [
+                "uncertain or unable to decide about what course to follow"
+            ]
+        },
+        "example": [
+            "was ambivalent about having children"
+        ]
+    },
+    "rancid": {
+        "meaning": "having an offensive smell or taste",
+        "breif": "Rancid means sour, rotten, and nasty and refers most specifically to the sharp bad smell of decomposing oils or fats. \"Rancid\" is a great name for a post-punk band, but a lousy way to describe the sauce on your eggs Benedict.",
+        "POS": {
+            "adjective": [
+                "(used of decomposing oils or fats) having a rank smell or taste usually due to a chemical change or decomposition",
+                "smelling of fermentation or staleness"
+            ]
+        },
+        "example": [
+            "rancid butter"
+        ]
+    },
+    "rancorous": {
+        "meaning": "showing deep-seated resentment",
+        "breif": "The adjective rancorous comes in handy when you're describing someone's bitter grudge, like the attitude of your cousin who still won't speak to you after the April Fool's Day prank you played four years ago.",
+        "POS": {
+            "adjective": [
+                "showing deep-seated resentment"
+            ]
+        },
+        "example": []
+    },
+    "cavalier": {
+        "meaning": "showing a lack of concern or seriousness",
+        "breif": "Someone who is cavalier has a dismissive attitude and regards other people as inferior. If you think you know more than your teacher and never bother doing homework, your parents might complain that you are cavalier about your studies.",
+        "POS": {
+            "adjective": [
+                "given to haughty disregard of others"
+            ],
+            "noun": [
+                "a gallant or courtly gentleman"
+            ]
+        },
+        "example": []
+    },
+    "altruistic": {
+        "meaning": "showing unselfish concern for the welfare of others",
+        "breif": "Someone who is altruistic always puts others first. An altruistic firefighter risks his life to save another's life, while an altruistic mom gives up the last bite of pie so her kid will be happy.",
+        "POS": {
+            "adjective": [
+                "showing unselfish concern for the welfare of others"
+            ]
+        },
+        "example": []
+    },
+    "pragmatic": {
+        "meaning": "concerned with practical matters",
+        "breif": "To describe a person or a solution that takes a realistic approach, consider the adjective pragmatic. The four-year-old who wants a unicorn for her birthday isn't being very pragmatic.",
+        "POS": {
+            "adjective": [
+                "concerned with practical matters",
+                "of or concerning the theory of pragmatism",
+                "guided by practical experience and observation rather than theory"
+            ],
+            "noun": [
+                "an imperial decree that becomes part of the fundamental law of the land"
+            ]
+        },
+        "example": [
+            "not ideology but pragmatic politics"
+        ]
+    },
+    "fanatical": {
+        "meaning": "marked by excessive enthusiasm for a cause or idea",
+        "breif": "If you are excessively enthusiastic about something \u2014 a sports team, an actor, your religion, saving the whales, a certain brand of chocolate \u2014 then you are fanatical about it.",
+        "POS": {
+            "adjective": [
+                "marked by excessive enthusiasm for and intense devotion to a cause or idea"
+            ]
+        },
+        "example": []
+    },
+    "monotone": {
+        "meaning": "an unchanging intonation",
+        "breif": "Monotone is a droning, unchanging tone. Nothing can put you to sleep quite as effectively as a teacher talking in a monotone.",
+        "POS": {
+            "noun": [
+                "an unchanging intonation",
+                "a single tone repeated with different words or different rhythms (especially in rendering liturgical texts)"
+            ],
+            "adjective": [
+                "sounded or spoken in a tone unvarying in pitch",
+                "of a sequence or function; consistently increasing and never decreasing or consistently decreasing and never increasing in value"
+            ]
+        },
+        "example": []
+    },
+    "adamant": {
+        "meaning": "very hard native crystalline carbon valued as a gem",
+        "breif": "If you stubbornly refuse to change your mind about something, you are adamant about it.",
+        "POS": {
+            "noun": [
+                "very hard native crystalline carbon valued as a gem"
+            ],
+            "adjective": [
+                "impervious to pleas, persuasion, requests, or reason"
+            ]
+        },
+        "example": [
+            "he is adamant in his refusal to change his mind"
+        ]
+    },
+    "acumen": {
+        "meaning": "shrewdness shown by keen insight",
+        "breif": "If you have acumen, you are very sharp at what you do. You hope your accountant and your surgeon are both known for their acumen.",
+        "POS": {
+            "noun": [
+                "shrewdness shown by keen insight",
+                "a tapering point"
+            ]
+        },
+        "example": []
+    },
+    "ephemeral": {
+        "meaning": "anything short-lived, as an insect that lives only for a day",
+        "breif": "Something that is fleeting or short-lived is ephemeral, like a fly that lives for one day or text messages flitting from cellphone to cellphone.",
+        "POS": {
+            "noun": [
+                "anything short-lived, as an insect that lives only for a day in its winged form"
+            ],
+            "adjective": [
+                "lasting a very short time"
+            ]
+        },
+        "example": [
+            "the ephemeral joys of childhood"
+        ]
+    },
+    "aggrandize": {
+        "meaning": "embellish; increase the scope, power, or importance of",
+        "breif": "If you are a window washer, but you refer to yourself as a \"vista enhancement specialist,\" then you are aggrandizing your job title \u2014 that is, making it sound greater than it is.",
+        "POS": {
+            "verb": [
+                "add details to"
+            ]
+        },
+        "example": []
+    },
+    "banal": {
+        "meaning": "repeated too often; overfamiliar through overuse",
+        "breif": "If something is boring and unoriginal, it's banal. Banal things are dull as dishwater.",
+        "POS": {
+            "adjective": [
+                "repeated too often; overfamiliar through overuse"
+            ]
+        },
+        "example": []
+    },
+    "meticulous": {
+        "meaning": "marked by precise accordance with details",
+        "breif": "Someone who is meticulous pays extreme attention to detail. If that person is, say, your surgeon or your accountant, you'll definitely want them to be meticulous!",
+        "POS": {
+            "adjective": [
+                "marked by precise accordance with details",
+                "marked by extreme care in treatment of details"
+            ]
+        },
+        "example": [
+            "meticulous research",
+            "a meticulous craftsman"
+        ]
+    },
+    "eccentric": {
+        "meaning": "conspicuously or grossly unconventional or unusual",
+        "breif": "You're most likely to encounter the adjective eccentric in a description of an unusual or quirky person \u2014 like a scatterbrained aunt who leaves her life savings to her cat.",
+        "POS": {
+            "adjective": [
+                "conspicuously or grossly unconventional or unusual",
+                "not having a common center; not concentric"
+            ],
+            "noun": [
+                "a person with an unusual or odd personality",
+                "a person of a specified kind (usually with many eccentricities)"
+            ]
+        },
+        "example": [
+            "famed for his eccentric spelling",
+            "a friendly eccentric",
+            "eccentric circles"
+        ]
+    },
+    "harried": {
+        "meaning": "troubled persistently, especially with petty annoyances",
+        "breif": "Someone who is harried is feeling the stress of being rushed, overworked, or harassed. A harried parent might be exhausted but still have to make 3 dozen cupcakes for school and help with a science project.",
+        "POS": {
+            "adjective": [
+                "troubled persistently especially with petty annoyances"
+            ]
+        },
+        "example": [
+            "a harried expression"
+        ]
+    },
+    "analogous": {
+        "meaning": "similar or equivalent in some respects",
+        "breif": "Use the adjective analogous to describe something that is similar to something else and can be compared to another.",
+        "POS": {
+            "adjective": [
+                "similar or equivalent in some respects though otherwise dissimilar",
+                "corresponding in function but not in evolutionary origin"
+            ]
+        },
+        "example": [
+            "brains and computers are often considered analogous",
+            "the wings of a bee and those of a hummingbird are analogous"
+        ]
+    },
+    "hackneyed": {
+        "meaning": "repeated too often; overfamiliar through overuse",
+        "breif": "Hackneyed is a word for language that doesn't pack a punch since it's overused and trite. \"Roses are red, violets are...\" \u2014 enough already?! That's hackneyed stuff.",
+        "POS": {
+            "adjective": [
+                "repeated too often; overfamiliar through overuse"
+            ]
+        },
+        "example": [
+            "hackneyed phrases"
+        ]
+    },
+    "disparate": {
+        "meaning": "fundamentally different or distinct in quality or kind",
+        "breif": "The trunk of some people's cars may contain items as disparate as old clothes, rotting food, and possibly a missing relative. Disparate things are very different from each other.",
+        "POS": {
+            "adjective": [
+                "fundamentally different or distinct in quality or kind",
+                "including markedly dissimilar elements"
+            ]
+        },
+        "example": [
+            "such disparate attractions as grand opera and game fishing",
+            "a disparate aggregate of creeds and songs and prayers"
+        ]
+    },
+    "sublime": {
+        "meaning": "of high moral or intellectual value",
+        "breif": "In common use, sublime is an adjective meaning \"awe-inspiringly grand, excellent, or impressive,\" like the best chocolate fudge sundae you've ever had.",
+        "POS": {
+            "adjective": [
+                "of high moral or intellectual value; elevated in nature or style",
+                "worthy of adoration or reverence",
+                "inspiring awe",
+                "lifted up or set high"
+            ],
+            "verb": [
+                "change or cause to change directly from a solid into a vapor without first melting",
+                "vaporize and then condense right back again"
+            ]
+        },
+        "example": [
+            "the sublime beauty of the night",
+            "\"their hearts were jocund and sublime\"- Milton",
+            "sublime iodine"
+        ]
+    },
+    "enigmatic": {
+        "meaning": "not clear to the understanding",
+        "breif": "Something that's enigmatic is tough to figure out. It's puzzling and even mysterious, like those weird secret college societies, Mona Lisa's smile, or the New York Times crossword.",
+        "POS": {
+            "adjective": [
+                "not clear to the understanding",
+                "resembling an oracle in obscurity of thought"
+            ]
+        },
+        "example": [
+            "I didn't grasp the meaning of that enigmatic comment until much later",
+            "so enigmatic that priests might have to clarify it"
+        ]
+    },
+    "insipid": {
+        "meaning": "lacking interest or significance or impact",
+        "breif": "Something insipid is lacking in flavor or interest. You'll probably find the generic poems inside of greeting cards insipid.",
+        "POS": {
+            "adjective": [
+                "lacking interest or significance or impact",
+                "lacking taste or flavor or tang"
+            ]
+        },
+        "example": [
+            "an insipid personality",
+            "insipid hospital food"
+        ]
+    },
+    "conjecture": {
+        "meaning": "believe especially on uncertain or tentative grounds",
+        "breif": "Can you guess what conjecture means? It's a word to use when you are not sure of something and have to \"guess or surmise.\"",
+        "POS": {
+            "verb": [
+                "believe especially on uncertain or tentative grounds"
+            ],
+            "noun": [
+                "reasoning that involves the formation of conclusions from incomplete evidence",
+                "a hypothesis that has been formed by speculating or conjecturing (usually with little hard evidence)",
+                "a message expressing an opinion based on incomplete evidence"
+            ]
+        },
+        "example": [
+            "he dismissed it as mere conjecture"
+        ]
+    },
+    "laconic": {
+        "meaning": "brief and to the point",
+        "breif": "Laconic is an adjective that describes a style of speaking or writing that uses only a few words, often to express complex thoughts and ideas.  A more laconic way to write that last sentence might be this: laconic means brief.",
+        "POS": {
+            "adjective": [
+                "brief and to the point; effectively cut short"
+            ]
+        },
+        "example": [
+            "the laconic reply"
+        ]
+    },
+    "exigent": {
+        "meaning": "demanding immediate attention",
+        "breif": "When you describe something as exigent, you are saying it requires attention: it can't be ignored.",
+        "POS": {
+            "adjective": [
+                "demanding attention",
+                "requiring precise accuracy"
+            ]
+        },
+        "example": [
+            "\"regarded literary questions as exigent and momentous\"- H.L.Mencken",
+            "became more exigent over his pronunciation"
+        ]
+    },
+    "disparage": {
+        "meaning": "express a negative opinion of",
+        "breif": "If you haven't got anything nice to say, then it's time to disparage someone. It means to belittle or degrade a person or idea.",
+        "POS": {
+            "verb": [
+                "express a negative opinion of"
+            ]
+        },
+        "example": [
+            "She disparaged her student's efforts"
+        ]
+    },
+    "polemical": {
+        "meaning": "of or involving dispute or controversy",
+        "breif": "The adjective polemical describes something related to an argument or controversy. To keep the peace, avoid discussing politics at Thanksgiving, which usually deteriorates into a polemical argument with Uncle Bob. Better stick to football or apple versus pumpkin pie.",
+        "POS": {
+            "adjective": [
+                "of or involving dispute or controversy"
+            ]
+        },
+        "example": []
+    },
+    "asperity": {
+        "meaning": "harshness of manner",
+        "breif": "Asperity is the harsh tone or behavior people exhibit when they\u2019re angry, impatient, or just miserable. Did your supervisor snap \u201cLate again!\u201d when you showed up 20 minutes after your shift was supposed to start? She's speaking with asperity.",
+        "POS": {
+            "noun": [
+                "harshness of manner",
+                "something hard to endure"
+            ]
+        },
+        "example": [
+            "the asperity of northern winters"
+        ]
+    },
+    "dearth": {
+        "meaning": "an insufficient quantity or number",
+        "breif": "If there is a dearth of something, there is not enough of it. A dearth of cupcakes is unfortunate, but a dearth of nutritious food is a serious problem.",
+        "POS": {
+            "noun": [
+                "an insufficient quantity or number",
+                "an acute insufficiency"
+            ]
+        },
+        "example": []
+    },
+    "oblivion": {
+        "meaning": "the state of being disregarded or forgotten",
+        "breif": "Oblivion is the state of being forgotten. Your uncle dreamed of being a rock star, but after recording one hit song, he faded into oblivion.",
+        "POS": {
+            "noun": [
+                "the state of being disregarded or forgotten",
+                "total forgetfulness"
+            ]
+        },
+        "example": [
+            "he sought the great oblivion of sleep"
+        ]
+    },
+    "adolescent": {
+        "meaning": "a person who is older than 12 but younger than 20",
+        "breif": "Adolescent is just a fancy word for teenager \u2014 someone who is no longer a child but is not yet an adult. The word can also be used as an adjective. For example, a particular clothing line might be geared toward adolescent girls.",
+        "POS": {
+            "noun": [
+                "a juvenile between the onset of puberty and maturity"
+            ],
+            "adjective": [
+                "in the state of development between puberty and maturity",
+                "being of the age 13 through 19",
+                "displaying or suggesting a lack of maturity",
+                "relating to or peculiar to or suggestive of an adolescent"
+            ]
+        },
+        "example": [
+            "adolescent boys and girls",
+            "adolescent insecurity",
+            "adolescent problems"
+        ]
+    },
+    "atrocity": {
+        "meaning": "an act of shocking cruelty",
+        "breif": "Atrocities, acts of outrageous cruelty, are often committed during wars and armed conflicts.",
+        "POS": {
+            "noun": [
+                "an act of atrocious cruelty",
+                "the quality of being shockingly cruel and inhumane"
+            ]
+        },
+        "example": []
+    },
+    "disdain": {
+        "meaning": "lack of respect accompanied by a feeling of intense dislike",
+        "breif": "If you feel that something isn't worthy of your consideration, you may disdain it (or treat it with disdain).",
+        "POS": {
+            "noun": [
+                "lack of respect accompanied by a feeling of intense dislike",
+                "a communication that indicates lack of respect by patronizing the recipient"
+            ],
+            "verb": [
+                "look down on with disdain",
+                "reject with contempt"
+            ]
+        },
+        "example": []
+    },
+    "disingenuous": {
+        "meaning": "not straightforward or candid",
+        "breif": "Use the adjective disingenuous to describe behavior that's not totally honest or sincere. It's disingenuous when people pretend to know less about something than they really do.",
+        "POS": {
+            "adjective": [
+                "not straightforward or candid; giving a false appearance of frankness"
+            ]
+        },
+        "example": [
+            "\"an ambitious, disingenuous, philistine, and hypocritical operator, who...exemplified...the most disagreeable traits of his time\"- David Cannadine"
+        ]
+    },
+    "truculent": {
+        "meaning": "defiantly aggressive",
+        "breif": "If you are quick to argue, always looking for a fight, and hard to please, you are truculent. You can also write a truculent essay, and fans upset by a loss can become truculent.",
+        "POS": {
+            "adjective": [
+                "defiantly aggressive"
+            ]
+        },
+        "example": [
+            "a truculent speech against the new government"
+        ]
+    },
+    "ubiquitous": {
+        "meaning": "being present everywhere at once",
+        "breif": "It's everywhere! It's everywhere! When something seems like it's present in all places at the same time, reach for the adjective ubiquitous.",
+        "POS": {
+            "adjective": [
+                "being present everywhere at once"
+            ]
+        },
+        "example": []
+    },
+    "superfluous": {
+        "meaning": "more than is needed, desired, or required",
+        "breif": "When something is so unnecessary that it could easily be done away with, like a fifth wheel on a car or a fifth person on a double date, call it superfluous.",
+        "POS": {
+            "adjective": [
+                "more than is needed, desired, or required",
+                "serving no useful purpose; having no excuse for being"
+            ]
+        },
+        "example": [
+            "delete superfluous (or unnecessary) words"
+        ]
+    },
+    "corroborate": {
+        "meaning": "give evidence for",
+        "breif": "To corroborate is to back someone else\u2019s story. If you swear to your teacher that you didn't throw the spitball, and your friends corroborate your story by promising that you were concentrating on math homework, she might actually believe you.",
+        "POS": {
+            "verb": [
+                "give evidence for",
+                "support with evidence or authority or make more certain or confirm",
+                "establish or strengthen as with new evidence or facts"
+            ]
+        },
+        "example": []
+    },
+    "mundane": {
+        "meaning": "found in the ordinary course of events",
+        "breif": "An ordinary, unexciting thing can be called mundane: \"Superman hid his heroic feats by posing as his mundane alter ego, Clark Kent.\"",
+        "POS": {
+            "adjective": [
+                "found in the ordinary course of events",
+                "concerned with the world or worldly matters",
+                "belonging to this earth or world; not ideal or heavenly"
+            ]
+        },
+        "example": [
+            "mundane affairs",
+            "yet a mundane wonder of unimagined kind"
+        ]
+    },
+    "accord": {
+        "meaning": "concurrence of opinion",
+        "breif": "An accord is an agreement between groups or even nations, like a formal peace accord that prevents war or the accord between you and your sister specifying who gets to use the car on which days.",
+        "POS": {
+            "noun": [
+                "concurrence of opinion",
+                "sympathetic compatibility",
+                "harmony of people's opinions or actions or characters",
+                "a written agreement between two states or sovereigns"
+            ],
+            "verb": [
+                "be harmonious or consistent with",
+                "allow to have"
+            ]
+        },
+        "example": [
+            "we are in accord with your proposal"
+        ]
+    },
+    "exasperation": {
+        "meaning": "actions that cause great irritation",
+        "breif": "If you've ever become so frustrated with someone or something that you feel like you're at the end of your rope, you have experienced exasperation. You are fed up!",
+        "POS": {
+            "noun": [
+                "actions that cause great irritation (or even anger)",
+                "an exasperated feeling of annoyance"
+            ]
+        },
+        "example": []
+    },
+    "eminent": {
+        "meaning": "standing above others in quality or position",
+        "breif": "Anyone highly regarded or prominent is eminent. Eminent people are very successful at their jobs. If you\u2019ve heard of Neil deGrasse Tyson, it\u2019s probably because he\u2019s an eminent astrophysicist.",
+        "POS": {
+            "adjective": [
+                "standing above others in quality or position",
+                "(used of persons) standing above others in character or attainment or reputation",
+                "having an illustrious reputation; respected",
+                "of imposing height; especially standing out above others"
+            ]
+        },
+        "example": [
+            "eminent members of the community",
+            "an eminent peak"
+        ]
+    },
+    "ambiguity": {
+        "meaning": "unclearness by virtue of having more than one meaning",
+        "breif": "Something with ambiguity is unclear. Think about the sentence, \"Jill saw the man with binoculars.\" If you are wondering whether Jill or the man had the binoculars, you are noticing the ambiguity, or the double meaning, of this sentence.",
+        "POS": {
+            "noun": [
+                "unclearness by virtue of having more than one meaning",
+                "an expression whose meaning cannot be determined from its context"
+            ]
+        },
+        "example": []
+    },
+    "aberration": {
+        "meaning": "a state or condition markedly different from the norm",
+        "breif": "An aberration is something strange that rarely occurs. An example of an aberration is when the temperature in Minnesota hits 90 degrees in January \u2014 it's nice and warm, but it's really strange.",
+        "POS": {
+            "noun": [
+                "a state or condition markedly different from the norm",
+                "a disorder in one's mental state",
+                "an optical phenomenon resulting from the failure of a lens or mirror to produce a good image"
+            ]
+        },
+        "example": []
+    },
+    "complaisance": {
+        "meaning": "a tendency to try to please or yield to the will of others",
+        "breif": "Complaisance is a quality of being eager to please or happy to follow instructions. Your new puppy's complaisance is going to make her easy to train.",
+        "POS": {
+            "noun": [
+                "a disposition or tendency to yield to the will of others"
+            ]
+        },
+        "example": []
+    },
+    "obstinate": {
+        "meaning": "marked by tenacious unwillingness to yield",
+        "breif": "When someone is beyond stubborn, use the word obstinate instead: \"You obstinate old mule! Get out of my way!\"",
+        "POS": {
+            "adjective": [
+                "tenaciously unwilling or marked by tenacious unwillingness to yield",
+                "stubbornly persistent in wrongdoing",
+                "resistant to guidance or discipline"
+            ],
+            "verb": [
+                "persist stubbornly"
+            ]
+        },
+        "example": [
+            "an obstinate child with a violent temper",
+            "he obstinates himself against all rational arguments"
+        ]
+    },
+    "shrewdness": {
+        "meaning": "intelligence manifested by being astute",
+        "breif": "",
+        "POS": {
+            "noun": [
+                "intelligence manifested by being astute (as in business dealings)"
+            ]
+        },
+        "example": []
+    },
+    "erudite": {
+        "meaning": "having or showing profound knowledge",
+        "breif": "If you call someone erudite, that means they show great learning. After you've earned your second Ph.D., you will be truly erudite.",
+        "POS": {
+            "adjective": [
+                "having or showing profound knowledge"
+            ]
+        },
+        "example": [
+            "an erudite professor"
+        ]
+    },
+    "culminate": {
+        "meaning": "end, especially to reach a final or climactic stage",
+        "breif": "The verb culminate is used to describe a high point or a climactic stage in a process. For example, the goal of a Major League baseball team is to have their season culminate in a World Series victory.",
+        "POS": {
+            "verb": [
+                "end, especially to reach a final or climactic stage",
+                "bring to a head or to the highest point",
+                "reach the highest or most decisive point",
+                "reach the highest altitude or the meridian, of a celestial body",
+                "rise to, or form, a summit"
+            ]
+        },
+        "example": [
+            "The meeting culminated in a tearful embrace",
+            "Seurat culminated pointillism",
+            "The helmet culminated in a crest"
+        ]
+    },
+    "acquiesce": {
+        "meaning": "agree or express agreement",
+        "breif": "To acquiesce is to agree to something or to give in. If your kid sister is refusing to hand over the television remote, you hope she acquiesces before your favorite show comes on.",
+        "POS": {
+            "verb": [
+                "agree or express agreement"
+            ]
+        },
+        "example": []
+    },
+    "diffidence": {
+        "meaning": "lack of self-assurance",
+        "breif": "The noun diffidence refers to a lack of self-confidence. Your diffidence might be the reason why you never say \"hi\" to the cute guy or gal in the elevator or why you never ask for a raise.",
+        "POS": {
+            "noun": [
+                "lack of self-confidence"
+            ]
+        },
+        "example": []
+    },
+    "disabuse": {
+        "meaning": "free somebody from an erroneous belief",
+        "breif": "Disabuse means to free someone of a belief that is not true. Many teachers of health find that when they teach, they spend as much energy disabusing kids of false beliefs as they do giving them the facts.",
+        "POS": {
+            "verb": [
+                "free somebody (from an erroneous belief)"
+            ]
+        },
+        "example": []
+    },
+    "frivolous": {
+        "meaning": "not serious in content, attitude, or behavior",
+        "breif": "Frivolous things are silly or unnecessary. If something is frivolous, then you don't need it.",
+        "POS": {
+            "adjective": [
+                "not serious in content or attitude or behavior"
+            ]
+        },
+        "example": [
+            "a frivolous novel"
+        ]
+    },
+    "vacillate": {
+        "meaning": "be undecided about something",
+        "breif": "Vacillate means to waver back and forth, unable to decide. You might vacillate between ordering waffles and pancakes at your favorite diner \u2014 it\u2019s hard to pick just one when both are so tasty!",
+        "POS": {
+            "verb": [
+                "be undecided about something; waver between conflicting positions or courses of action",
+                "move or sway in a rising and falling or wavelike pattern"
+            ]
+        },
+        "example": [
+            "the line on the monitor vacillated"
+        ]
+    },
+    "propriety": {
+        "meaning": "correct behavior",
+        "breif": "Propriety is following what is socially acceptable in speech and behavior. Your little brother might offend your sense of propriety by burping loudly at the dinner table.",
+        "POS": {
+            "noun": [
+                "correct or appropriate behavior"
+            ]
+        },
+        "example": []
+    },
+    "lugubrious": {
+        "meaning": "excessively mournful",
+        "breif": "Funerals are lugubrious. So are rainy days and Mondays. Anything that makes you sad, gloomy, or mournful can be called lugubrious.",
+        "POS": {
+            "adjective": [
+                "excessively mournful"
+            ]
+        },
+        "example": []
+    },
+    "persistent": {
+        "meaning": "stubbornly unyielding",
+        "breif": "If something is persistent, it just won't stop. If you're persistent in your suggestions for a trip to Mexico, maybe your parents will eventually give in and take you there.",
+        "POS": {
+            "adjective": [
+                "stubbornly unyielding",
+                "never-ceasing",
+                "continually recurring to the mind",
+                "retained; not shed"
+            ]
+        },
+        "example": [
+            "persistent leaves remain attached past maturity"
+        ]
+    },
+    "implacable": {
+        "meaning": "incapable of being appeased or pacified",
+        "breif": "An implacable person just can\u2019t be appeased. If you really offended your best friend and tried every kind of apology but she refused to speak to you again, you could describe her as implacable.",
+        "POS": {
+            "adjective": [
+                "incapable of being placated"
+            ]
+        },
+        "example": [
+            "an implacable enemy"
+        ]
+    },
+    "obdurate": {
+        "meaning": "stubbornly persistent in wrongdoing",
+        "breif": "Obdurate is a formal word meaning stubborn. If you want to major in English, but your parents are obdurate that you should go premed, they might go so far as to threaten not to pay your tuition.",
+        "POS": {
+            "adjective": [
+                "stubbornly persistent in wrongdoing",
+                "showing unfeeling resistance to tender feelings"
+            ]
+        },
+        "example": [
+            "the child's misery would move even the most obdurate heart"
+        ]
+    },
+    "abstain": {
+        "meaning": "refrain from doing, consuming, or partaking in something",
+        "breif": "If you abstain from something, you restrain yourself from consuming it. People usually abstain from things that are considered vices \u2014 like eating French fries every day for lunch.",
+        "POS": {
+            "verb": [
+                "choose not to partake in or consume",
+                "refrain from voting"
+            ]
+        },
+        "example": [
+            "I abstain from alcohol"
+        ]
+    },
+    "impetuous": {
+        "meaning": "characterized by undue haste and lack of thought",
+        "breif": "Someone impetuous acts too hastily or carelessly. Hotheaded, impulsive folks are impetuous.",
+        "POS": {
+            "adjective": [
+                "characterized by undue haste and lack of thought or deliberation",
+                "marked by violent force"
+            ]
+        },
+        "example": [
+            "an impetuous display of spending and gambling",
+            "impetuous heaving waves"
+        ]
+    },
+    "decorum": {
+        "meaning": "propriety in manners and conduct",
+        "breif": "Decorum is proper and polite behavior. If you let out a big belch at a fancy dinner party, you're not showing much decorum.",
+        "POS": {
+            "noun": [
+                "propriety in manners and conduct",
+                "the fitness of a composition\u2019s style to its subject"
+            ]
+        },
+        "example": []
+    },
+    "eloquent": {
+        "meaning": "expressing yourself readily, clearly, effectively",
+        "breif": "When you're eloquent, you have a way with words. An eloquent speaker expresses herself clearly and powerfully. Even though eloquent usually describes oral speech, it can also be used to describe powerful writing.",
+        "POS": {
+            "adjective": [
+                "expressing yourself readily, clearly, effectively"
+            ]
+        },
+        "example": []
+    },
+    "providential": {
+        "meaning": "peculiarly fortunate or appropriate",
+        "breif": "If your best friend pulls up beside you in her convertible just as your bike gets a flat tire, you could call it providential, or magically lucky.",
+        "POS": {
+            "adjective": [
+                "peculiarly fortunate or appropriate; as if by divine intervention",
+                "relating to or characteristic of providence",
+                "resulting from divine providence"
+            ]
+        },
+        "example": [
+            "a providential recovery",
+            "\"assumption that nature operates only according to a providential plan\"- M.R.Cohen",
+            "providential care"
+        ]
+    },
+    "prodigious": {
+        "meaning": "great in size, force, extent, or degree",
+        "breif": "Something exceptional, substantial, or great is prodigious. A blizzard includes prodigious wind and snow. A prodigious writer is one who can write a lot and do it well.",
+        "POS": {
+            "adjective": [
+                "so great in size or force or extent as to elicit awe",
+                "far beyond what is usual in magnitude or degree",
+                "of momentous or ominous significance"
+            ]
+        },
+        "example": [
+            "a prodigious storm",
+            "the young Mozart's prodigious talents",
+            "a prodigious vision"
+        ]
+    },
+    "zeal": {
+        "meaning": "a feeling of strong eagerness",
+        "breif": "Zeal is dedication or enthusiasm for something. If you have zeal, you're willing, energized, and motivated.",
+        "POS": {
+            "noun": [
+                "a feeling of strong eagerness (usually in favor of a person or cause)",
+                "prompt willingness",
+                "excessive fervor to do something or accomplish some end"
+            ]
+        },
+        "example": [
+            "he felt a kind of religious zeal",
+            "they disliked his zeal in demonstrating his superiority",
+            "he had an absolute zeal for litigation"
+        ]
+    },
+    "puerile": {
+        "meaning": "displaying or suggesting a lack of maturity",
+        "breif": "Some people like their movies to have sophisticated humor and others prefer the more puerile humor of pratfalls or jokes about smelly underwear, inappropriate belching, and passing gas.",
+        "POS": {
+            "adjective": [
+                "displaying or suggesting a lack of maturity",
+                "of or characteristic of a child"
+            ]
+        },
+        "example": [
+            "puerile jokes",
+            "puerile breathing"
+        ]
+    },
+    "obfuscate": {
+        "meaning": "make obscure or unclear",
+        "breif": "Some people are experts at obfuscating the truth by being evasive, unclear, or obscure in the telling of the facts. The people who are good at obfuscating would include defense lawyers and teenagers asked about their plans for Saturday night.",
+        "POS": {
+            "verb": [
+                "make obscure or unclear"
+            ]
+        },
+        "example": []
+    },
+    "apathy": {
+        "meaning": "an absence of emotion or enthusiasm",
+        "breif": "Use the noun apathy when someone isn't interested in the important things that are happening. You might feel apathy for the political process after watching candidates bicker tediously with one another.",
+        "POS": {
+            "noun": [
+                "an absence of emotion or enthusiasm",
+                "the trait of lacking enthusiasm for or interest in things generally"
+            ]
+        },
+        "example": []
+    },
+    "benevolent": {
+        "meaning": "showing or motivated by sympathy and understanding",
+        "breif": "Choose the adjective benevolent for someone who does good deeds or shows goodwill. If your teacher collects homework with a benevolent smile, she's hoping that you've done a good job.",
+        "POS": {
+            "adjective": [
+                "showing or motivated by sympathy and understanding and generosity",
+                "intending or showing kindness",
+                "generous in providing aid to others",
+                "generous in assistance to the poor"
+            ]
+        },
+        "example": [
+            "a benevolent society",
+            "a benevolent contributor"
+        ]
+    },
+    "predicament": {
+        "meaning": "an unpleasant or difficult situation",
+        "breif": "If you're engaged to get married but suddenly fall in love with someone else, you have gotten yourself into quite a predicament. A predicament is a difficult, confusing, and unpleasant situation.",
+        "POS": {
+            "noun": [
+                "a situation from which extrication is difficult especially an unpleasant or trying one"
+            ]
+        },
+        "example": [
+            "finds himself in a most awkward predicament"
+        ]
+    },
+    "confine": {
+        "meaning": "place limits on",
+        "breif": "Confine is all about setting limits. If you are confined to the house, it means you can't leave it. If you're really sick, you might be confined to your bed.",
+        "POS": {
+            "verb": [
+                "place limits on (extent or access)",
+                "restrict or confine, \"I limit you to two visits to the pub a day\"",
+                "deprive of freedom; take into confinement",
+                "to close within bounds, limit or hold back from movement",
+                "prevent from leaving or from being removed",
+                "close in; \"darkness confined him\""
+            ]
+        },
+        "example": []
+    },
+    "progeny": {
+        "meaning": "the immediate descendants of a person",
+        "breif": "Progeny means \"offspring\" or \"children.\" You and your brothers are the progeny of your parents, and your cat's new litter of kittens is her progeny.",
+        "POS": {
+            "noun": [
+                "the immediate descendants of a person"
+            ]
+        },
+        "example": []
+    },
+    "repertoire": {
+        "meaning": "the range of skills in a particular field or occupation",
+        "breif": "Repertoire refers to the full supply of what you can do. A singer's repertoire is all the songs he can sing. A chef's repertoire is what she knows how to cook.",
+        "POS": {
+            "noun": [
+                "the entire range of skills or aptitudes or devices used in a particular field or occupation",
+                "a collection of works (plays, songs, operas, ballets) that an artist or company can perform and do perform for short intervals on a regular schedule"
+            ]
+        },
+        "example": []
+    },
+    "impelled": {
+        "meaning": "urged or forced to action through moral pressure",
+        "breif": "",
+        "POS": {
+            "adjective": [
+                "urged or forced to action through moral pressure"
+            ]
+        },
+        "example": [
+            "felt impelled to take a stand against the issue"
+        ]
+    },
+    "etched": {
+        "meaning": "cut or impressed into a surface",
+        "breif": "",
+        "POS": {
+            "adjective": [
+                "cut or impressed into a surface"
+            ]
+        },
+        "example": []
+    },
+    "prowl": {
+        "meaning": "move about in or as if in a predatory manner",
+        "breif": "If you move stealthily \u2014 like you're looking for something to prey on \u2014 then you prowl. Your cat might prowl around the room and pounce on your feet, which is cute if you're awake, but annoying when you're asleep.",
+        "POS": {
+            "verb": [
+                "move about in or as if in a predatory manner",
+                "loiter about, with no apparent aim"
+            ],
+            "noun": [
+                "the act of prowling (walking about in a stealthy manner)"
+            ]
+        },
+        "example": [
+            "The suspicious stranger prowls the streets of the town"
+        ]
+    },
+    "propensity": {
+        "meaning": "a natural inclination",
+        "breif": "A propensity is a natural tendency to behave in a certain way. We all have propensities \u2014 things we tend to do. Dogs have a propensity to bark, and many people have a propensity for getting annoyed by it.",
+        "POS": {
+            "noun": [
+                "a natural inclination",
+                "an inclination to do something",
+                "a disposition to behave in a certain way"
+            ]
+        },
+        "example": [
+            "the propensity of disease to spread"
+        ]
+    },
+    "comprehend": {
+        "meaning": "get the meaning of something",
+        "breif": "To comprehend something is to understand it, like when you have to read a difficult passage more than once in order to comprehend it.",
+        "POS": {
+            "verb": [
+                "get the meaning of something",
+                "become aware of through the senses",
+                "include in scope; include as part of something broader; have as one's sphere or territory"
+            ]
+        },
+        "example": [
+            "Do you comprehend the meaning of this letter?"
+        ]
+    },
+    "thoroughly": {
+        "meaning": "in an exhaustive manner",
+        "breif": "Thoroughly means exhaustively and completely. No matter how thoroughly you clean every carpet, shelf, and windowpane in a house, there is always more dust to be found.",
+        "POS": {
+            "adverb": [
+                "in an exhaustive manner",
+                "completely and absolutely (`good' is sometimes used informally for `thoroughly')"
+            ]
+        },
+        "example": [
+            "we searched the files thoroughly"
+        ]
+    },
+    "erroneous": {
+        "meaning": "containing or characterized by mistakes",
+        "breif": "The adjective erroneous describes something or someone as mistaken and incorrect. Early explorers had the erroneous notion that the oceans were full of dragons.",
+        "POS": {
+            "adjective": [
+                "containing or characterized by error"
+            ]
+        },
+        "example": [
+            "erroneous conclusions"
+        ]
+    },
+    "espouse": {
+        "meaning": "choose and follow a theory, idea, policy, etc.",
+        "breif": "Use the verb espouse to describe the actions of someone who lives according to specific beliefs, such as your friends who espouse environmentalism and as a result walk whenever possible instead of taking the car.",
+        "POS": {
+            "verb": [
+                "choose and follow; as of theories, ideas, policies, strategies or plans",
+                "take up the cause, ideology, practice, method, of someone and use it as one's own",
+                "take in marriage"
+            ]
+        },
+        "example": [
+            "The candidate espouses Republican ideals"
+        ]
+    },
+    "fallacious": {
+        "meaning": "containing or based on incorrect reasoning",
+        "breif": "Something fallacious is a mistake that comes from too little information or unsound sources. Predictions that the whole state of California will snap off from the rest of North America and float away have proven to be fallacious \u2014 for now, anyway.",
+        "POS": {
+            "adjective": [
+                "containing or based on a fallacy",
+                "based on an incorrect or misleading notion or information",
+                "intended to deceive"
+            ]
+        },
+        "example": [
+            "fallacious reasoning",
+            "fallacious hope",
+            "fallacious testimony"
+        ]
+    },
+    "decisive": {
+        "meaning": "characterized by resoluteness and firmness",
+        "breif": "If you make decisions quickly, you are someone who is decisive. A decisive event can settle something, like a war.",
+        "POS": {
+            "adjective": [
+                "characterized by decision and firmness",
+                "determining or having the power to determine an outcome",
+                "forming or having the nature of a turning point or crisis",
+                "unmistakable"
+            ]
+        },
+        "example": [
+            "an able and decisive young woman",
+            "cast the decisive vote",
+            "had a decisive lead in the polls"
+        ]
+    },
+    "penning": {
+        "meaning": "the act of creating written works",
+        "breif": "",
+        "POS": {
+            "noun": [
+                "the act of creating written works"
+            ]
+        },
+        "example": []
+    },
+    "automation": {
+        "meaning": "the act of implementing the control of equipment",
+        "breif": "Automation means making something automatic, or mechanized. If there's smoke in your house and your smoke detector is set up to \"call\" the fire department, that's an example of automation.",
+        "POS": {
+            "noun": [
+                "the act of implementing the control of equipment with advanced technology; usually involving electronic hardware",
+                "equipment used to achieve automatic control or operation",
+                "the condition of being automatically operated or controlled"
+            ]
+        },
+        "example": [
+            "automation replaces human workers by machines",
+            "this factory floor is a showcase for automation and robotic equipment",
+            "automation increases productivity"
+        ]
+    },
+    "apprehended": {
+        "meaning": "fully understood or grasped",
+        "breif": "",
+        "POS": {
+            "adjective": [
+                "fully understood or grasped"
+            ]
+        },
+        "example": [
+            "these apprehended truths"
+        ]
+    },
+    "manoeuvre": {
+        "meaning": "a military training exercise",
+        "breif": "",
+        "POS": {
+            "noun": [
+                "a military training exercise",
+                "a plan for attaining a particular goal",
+                "a deliberate coordinated movement requiring dexterity and skill",
+                "a move made to gain a tactical end",
+                "an action aimed at evading an opponent"
+            ],
+            "verb": [
+                "act in order to achieve a certain goal",
+                "perform a movement in military or naval tactics in order to secure an advantage in attack or defense",
+                "direct the course; determine the direction of travelling"
+            ]
+        },
+        "example": []
+    },
+    "worthwhile": {
+        "meaning": "sufficiently valuable to justify the investment of time",
+        "breif": "Things that are worthwhile are good \u2014 they're worth the time or money you spend on them.",
+        "POS": {
+            "adjective": [
+                "sufficiently valuable to justify the investment of time or interest"
+            ]
+        },
+        "example": [
+            "a worthwhile book"
+        ]
+    },
+    "wittingly": {
+        "meaning": "with full knowledge and deliberation",
+        "breif": "",
+        "POS": {
+            "adverb": [
+                "with full knowledge and deliberation"
+            ]
+        },
+        "example": [
+            "he wittingly deleted the references"
+        ]
+    },
+    "prominent": {
+        "meaning": "conspicuous in position or importance",
+        "breif": "If you're looking for an adjective that means \"sticking out above the rest; famous,\" consider prominent. A prominent person might be the big star, the head honcho, the top dog \u2014 not just any ordinary person.",
+        "POS": {
+            "adjective": [
+                "conspicuous in position or importance",
+                "having a quality that thrusts itself into attention"
+            ]
+        },
+        "example": [
+            "a prominent citizen",
+            "a new theory is the most prominent feature of the book"
+        ]
+    },
+    "catapult": {
+        "meaning": "an engine providing medieval artillery used during sieges",
+        "breif": "A catapult is something that hurls things through the air, like a catapult that sends pumpkins flying in an annual Halloween competition.",
+        "POS": {
+            "noun": [
+                "an engine that provided medieval artillery used during sieges; a heavy war engine for hurling large stones and other missiles",
+                "a device that launches aircraft from a warship",
+                "a plaything consisting of a Y-shaped stick with elastic between the arms; used to propel small stones"
+            ],
+            "verb": [
+                "shoot forth or launch, as if from a catapult",
+                "hurl as if with a sling"
+            ]
+        },
+        "example": [
+            "the enemy catapulted rocks towards the fort"
+        ]
+    },
+    "besieged": {
+        "meaning": "surrounded by hostile forces",
+        "breif": "",
+        "POS": {
+            "adjective": [
+                "surrounded by hostile forces"
+            ]
+        },
+        "example": [
+            "the besieged town"
+        ]
+    },
+    "conviction": {
+        "meaning": "an unshakable belief in something without need for proof",
+        "breif": "A conviction is something certain: a judgment of guilty in court and a strong belief are both convictions.",
+        "POS": {
+            "noun": [
+                "an unshakable belief in something without need for proof or evidence",
+                "(criminal law) a final judgment of guilty in a criminal case and the punishment that is imposed"
+            ]
+        },
+        "example": [
+            "the conviction came as no surprise"
+        ]
+    },
+    "compelling": {
+        "meaning": "capable of arousing and holding the attention",
+        "breif": "Compelling means attractive, or irresistible, or really, really convincing. You know your argument for backpacking across Europe is compelling when your parents not only let you go but also pay for all your expenses.",
+        "POS": {
+            "adjective": [
+                "capable of arousing and holding the attention",
+                "tending to persuade by forcefulness of argument",
+                "driving or forcing"
+            ]
+        },
+        "example": [
+            "new and compelling evidence",
+            "compelling ambition"
+        ]
+    },
+    "elucidate": {
+        "meaning": "make clear and comprehensible",
+        "breif": "If you elucidate something, you explain it very clearly. If you don't understand fractions, a visit to the pie shop may elucidate the subject for you.",
+        "POS": {
+            "verb": [
+                "make clear and (more) comprehensible",
+                "make free from confusion or ambiguity; make clear"
+            ]
+        },
+        "example": []
+    },
+    "rein": {
+        "meaning": "one of a pair of long straps used to control a horse",
+        "breif": "Rein is both a noun and a verb for guiding and restraining. You can use the long strap, or rein, on a horse to control its speed and direction, and you can rein in your own tongue by closing your mouth.",
+        "POS": {
+            "noun": [
+                "one of a pair of long straps (usually connected to the bit or the headpiece) used to control a horse",
+                "any means of control"
+            ],
+            "verb": [
+                "control and direct with or as if by reins",
+                "stop or check by or as if by a pull at the reins",
+                "keep in check",
+                "stop or slow up one's horse or oneself by or as if by pulling the reins"
+            ]
+        },
+        "example": [
+            "he took up the reins of government",
+            "rein a horse",
+            "He reined in his horses in front of the post office",
+            "They reined in in front of the post office"
+        ]
+    },
+    "incessant": {
+        "meaning": "uninterrupted in time and indefinitely long continuing",
+        "breif": "Something incessant continues without interruption. When you're on a cross-country flight, it's tough to tolerate the incessant crying of a baby.",
+        "POS": {
+            "adjective": [
+                "uninterrupted in time and indefinitely long continuing"
+            ]
+        },
+        "example": [
+            "night and day we live with the incessant noise of the city"
+        ]
+    },
+    "falter": {
+        "meaning": "move hesitatingly, as if about to give way",
+        "breif": "Falter means to hesitate, stumble, or waver, and everything from faith to voices can do it. So if you want to keep your bride or groom happy, it's best not to falter when it's your turn to say \"I do.\"",
+        "POS": {
+            "verb": [
+                "move hesitatingly, as if about to give way",
+                "walk unsteadily",
+                "speak haltingly",
+                "be unsure or weak"
+            ],
+            "noun": [
+                "the act of pausing uncertainly"
+            ]
+        },
+        "example": [
+            "The speaker faltered when he saw his opponent enter the room",
+            "Their enthusiasm is faltering"
+        ]
+    },
+    "etch": {
+        "meaning": "carve or cut a design or letters into",
+        "breif": "If you etch something you are cutting into it. You can etch \"I \u2665 U\" into a tree trunk with a pocket knife or etch your initials in your desk with a key (if the teacher's not looking).",
+        "POS": {
+            "verb": [
+                "carve or cut a design or letters into",
+                "carve or cut into a block used for printing or print from such a block",
+                "selectively dissolve the surface of (a semiconductor or printed circuit) with a solvent, laser, or stream of electrons",
+                "make an etching of",
+                "cause to stand out or be clearly defined or visible"
+            ]
+        },
+        "example": [
+            "He etched her image into the surface",
+            "a face etched with pain"
+        ]
+    },
+    "immemorial": {
+        "meaning": "long past",
+        "breif": "Anything immemorial is very, very old. You're most likely to hear this word in the phrase \"time immemorial,\" a common way to say \"so long ago that no one remembers it.\"",
+        "POS": {
+            "adjective": [
+                "long past; beyond the limits of memory or tradition or recorded history"
+            ]
+        },
+        "example": [
+            "time immemorial"
+        ]
+    },
+    "delve": {
+        "meaning": "turn up, loosen, or remove earth",
+        "breif": "The verb delve means to dig into, loosen, or investigate. She delved into her family's history and discovered an inventor, a checkers champion, and a circus equestrian in her ancestry.",
+        "POS": {
+            "verb": [
+                "turn up, loosen, or remove earth",
+                "search for something in a receptacle or container",
+                "inquire into",
+                "consider in detail and subject to an analysis in order to discover essential features or meaning"
+            ]
+        },
+        "example": []
+    },
+    "bode": {
+        "meaning": "indicate by signs",
+        "breif": "The verb bode suggests forecasting. Something bodes well when the clues or signs imply a favorable outcome. But if something bodes ill, you\u2019d better watch out!",
+        "POS": {
+            "verb": [
+                "indicate by signs"
+            ]
+        },
+        "example": [
+            "These signs bode bad news"
+        ]
+    },
+    "repose": {
+        "meaning": "freedom from activity",
+        "breif": "Repose is a formal or literary term used to mean the act of resting, or the state of being at rest. Repose is also a state of mind: freedom from worry.",
+        "POS": {
+            "noun": [
+                "freedom from activity (work or strain or responsibility)",
+                "the absence of mental stress or anxiety",
+                "a disposition free from stress or emotion"
+            ],
+            "verb": [
+                "lean in a comfortable resting position",
+                "lie when dead",
+                "put in a horizontal position",
+                "put or confide something in a person or thing",
+                "put something (e.g. trust) in something",
+                "be inherent or innate in"
+            ]
+        },
+        "example": [
+            "took his repose by the swimming pool",
+            "He was reposing on the couch",
+            "Mao reposes in his mausoleum",
+            "These philosophers reposed the law in the people",
+            "The nation reposed its confidence in the King"
+        ]
+    },
+    "unscrupulous": {
+        "meaning": "without principles",
+        "breif": "Use the adjective unscrupulous to describe someone who behaves in a dishonest or unethical way.",
+        "POS": {
+            "adjective": [
+                "without scruples or principles"
+            ]
+        },
+        "example": [
+            "unscrupulous politicos who would be happy to sell...their country in order to gain power"
+        ]
+    },
+    "juncture": {
+        "meaning": "the shape or manner in which things come together",
+        "breif": "A juncture is a crucial point in time when a decision must be made. At this juncture, a president might say, the government must decide whether to go ahead with war or to try to solve things diplomatically.",
+        "POS": {
+            "noun": [
+                "the shape or manner in which things come together and a connection is made",
+                "an event that occurs at a critical time",
+                "a crisis situation or point in time when a critical decision must be made"
+            ]
+        },
+        "example": [
+            "at such junctures he always had an impulse to leave",
+            "at that juncture he had no idea what to do"
+        ]
+    },
+    "fathom": {
+        "meaning": "a linear unit of measurement for water depth",
+        "breif": "To fathom something is to understand it thoroughly. It's usually used in the negative, as in \"I can't fathom why he doesn't want to go along with us.\"",
+        "POS": {
+            "noun": [
+                "a linear unit of measurement (equal to 6 feet) for water depth",
+                "(mining) a unit of volume (equal to 6 cubic feet) used in measuring bodies of ore"
+            ],
+            "verb": [
+                "measure the depth of (a body of water) with a sounding line",
+                "come to understand"
+            ]
+        },
+        "example": []
+    },
+    "diligent": {
+        "meaning": "quietly and steadily persevering in detail or exactness",
+        "breif": "Someone who is diligent works hard and carefully. If you want to write the epic history of your family, you'll have to be very diligent in tracking down and interviewing all of your relatives.",
+        "POS": {
+            "adjective": [
+                "quietly and steadily persevering especially in detail or exactness",
+                "characterized by care and perseverance in carrying out tasks"
+            ]
+        },
+        "example": [
+            "a diligent (or patient) worker",
+            "a diligent detective investigates all clues"
+        ]
+    },
+    "ignominious": {
+        "meaning": "deserving or bringing disgrace or shame",
+        "breif": "Losing a football game stinks, but losing a game where, at the end, you are lying face down in a puddle of mud and the fans are burning effigies of you in the streets? That is an ignominious defeat.",
+        "POS": {
+            "adjective": [
+                "(used of conduct or character) deserving or bringing disgrace or shame"
+            ]
+        },
+        "example": [
+            "an ignominious retreat"
+        ]
+    },
+    "galore": {
+        "meaning": "existing in abundance",
+        "breif": "At a party with more cupcakes than anyone could imagine, you\u2019ll hear guests say, \u201cThere are cupcakes galore!\u201d  Galore means there\u2019s so much that it\u2019s unbelievable.",
+        "POS": {
+            "adjective": [
+                "existing in abundance",
+                "in great numbers"
+            ]
+        },
+        "example": [
+            "daffodils galore"
+        ]
+    },
+    "imbibe": {
+        "meaning": "take in liquids",
+        "breif": "Imbibe is a fancy word for \"drink.\"  If you need to imbibe ten cups of coffee just to get out of the house, you might have a caffeine problem.",
+        "POS": {
+            "verb": [
+                "take in liquids",
+                "take (gas, light or heat) into a solution",
+                "take in, also metaphorically",
+                "receive into the mind and retain"
+            ]
+        },
+        "example": [
+            "Imbibe ethical principles"
+        ]
+    },
+    "succinctly": {
+        "meaning": "with concise and precise brevity; to the point",
+        "breif": "To say something succinctly is to say it briefly, fitting your points into one concise statement. It's a talent rarely enjoyed and much appreciated.  You succinctly stated your case and sat down to great applause, not to mention great relief.",
+        "POS": {
+            "adverb": [
+                "with concise and precise brevity; to the point"
+            ]
+        },
+        "example": [
+            "Please state your case as succinctly as possible"
+        ]
+    },
+    "tandem": {
+        "meaning": "an arrangement of objects or persons one behind another",
+        "breif": "Tandem describes an arrangement where people or animals are in formation, one behind the other. Couples attached at the hip sometimes like to ride tandem bicycles, which allow two people to pedal the same bike. How cute.",
+        "POS": {
+            "noun": [
+                "an arrangement of two or more objects or persons one behind another",
+                "a bicycle with two sets of pedals and two seats"
+            ],
+            "adverb": [
+                "one behind the other"
+            ]
+        },
+        "example": [
+            "ride tandem on a bicycle built for two"
+        ]
+    },
+    "unbridled": {
+        "meaning": "not restrained or controlled",
+        "breif": "Unbridled means unrestrained. When you find out that you just won the lottery, feel free to jump up and down with unbridled joy. Go ahead, most people would probably let loose in the same way.",
+        "POS": {
+            "adjective": [
+                "not restrained or controlled"
+            ]
+        },
+        "example": [
+            "unbridled rage"
+        ]
+    },
+    "maudlin": {
+        "meaning": "very sentimental or emotional",
+        "breif": "You can use maudlin to describe something that brings tears to your eyes, or makes you feel very emotional. Tearjerkers like \"Forrest Gump\" and \"Titanic\" can be described as maudlin.",
+        "POS": {
+            "adjective": [
+                "effusively or insincerely emotional"
+            ]
+        },
+        "example": [
+            "maudlin expressions of sympathy"
+        ]
+    },
+    "wheedle": {
+        "meaning": "influence or urge by gentle urging, caressing, or flattering",
+        "breif": "To wheedle is to sweet talk, or flatter someone in the hopes of getting something in return. You might try to wheedle a meter maid into not giving you a parking ticket. Good luck with that.",
+        "POS": {
+            "verb": [
+                "influence or urge by gentle urging, caressing, or flattering"
+            ]
+        },
+        "example": []
+    },
+    "amelioration": {
+        "meaning": "the act of relieving ills and changing for the better",
+        "breif": "Amelioration is a process that makes something better. A philanthropist might devote her life to the amelioration of poverty and hunger.",
+        "POS": {
+            "noun": [
+                "the act of relieving ills and changing for the better"
+            ]
+        },
+        "example": []
+    },
+    "brood": {
+        "meaning": "hang over, as of something threatening, dark, or menacing",
+        "breif": "A brood is a group of young born at the same time \u2014 like a brood of chicks \u2014 but your parents might use the word for you and your siblings: \"We're taking the whole brood to the movies tonight.\"",
+        "POS": {
+            "verb": [
+                "hang over, as of something threatening, dark, or menacing",
+                "think moodily or anxiously about something",
+                "be in a huff; be silent or sullen",
+                "be in a huff and display one's displeasure",
+                "sit on (eggs)"
+            ],
+            "noun": [
+                "the young of an animal cared for at one time"
+            ]
+        },
+        "example": [
+            "The terrible vision brooded over her all day long",
+            "Birds brood"
+        ]
+    },
+    "whimsy": {
+        "meaning": "an odd or fanciful or capricious idea",
+        "breif": "Whimsy is what a person who's a dreamer and out of step with the real world might have lots of. People who are full of whimsy are odd, but often fanciful and lovely, like Harry Potter's friend Luna Lovegood.",
+        "POS": {
+            "noun": [
+                "an odd or fanciful or capricious idea",
+                "the trait of acting unpredictably and more from whim or caprice than from reason or judgment"
+            ]
+        },
+        "example": [
+            "he had a whimsy about flying to the moon"
+        ]
+    },
+    "chatoyant": {
+        "meaning": "varying in color when seen in different lights or from different angles",
+        "breif": "",
+        "POS": {
+            "adjective": [
+                "varying in color when seen in different lights or from different angles"
+            ]
+        },
+        "example": [
+            "chatoyant (or shot) silk"
+        ]
+    },
+    "conflate": {
+        "meaning": "mix together different elements",
+        "breif": "Conflate is a more formal way to say \"mix together,\" and it's typically used for texts or ideas. You probably wouldn't say you conflated the ingredients for a cake, but if you blended two different stories together to make a new one, conflate would work.",
+        "POS": {
+            "verb": [
+                "mix together different elements",
+                "mistake one thing for another"
+            ]
+        },
+        "example": []
+    },
+    "hark back": {
+        "meaning": "go back to something earlier",
+        "breif": "",
+        "POS": {
+            "verb": [
+                "go back to something earlier"
+            ]
+        },
+        "example": [
+            "This harks back to a previous remark of his"
+        ]
+    },
+    "besiege": {
+        "meaning": "surround so as to force to give up",
+        "breif": "To besiege means to attack with an army, or to pester with many requests. When all your teachers ask you to hand in assignments on the same day, you can end up feeling besieged.",
+        "POS": {
+            "verb": [
+                "surround so as to force to give up",
+                "harass, as with questions or requests",
+                "cause to feel distressed or worried"
+            ]
+        },
+        "example": [
+            "The Turks besieged Vienna",
+            "The press photographers besieged the movie star",
+            "She was besieged by so many problems that she got discouraged"
+        ]
+    },
+    "apprehend": {
+        "meaning": "anticipate with dread or anxiety",
+        "breif": "To apprehend is to capture or arrest, as when the police try to apprehend criminals and bring them to justice. You also apprehend a concept when you understand it, grasping or capturing its meaning.",
+        "POS": {
+            "verb": [
+                "anticipate with dread or anxiety",
+                "understand or perceive the meaning of something",
+                "take into custody"
+            ]
+        },
+        "example": []
+    },
+    "imperative": {
+        "meaning": "requiring attention or action",
+        "breif": "When something absolutely has to be done and cannot be put off, use the adjective imperative.",
+        "POS": {
+            "adjective": [
+                "requiring attention or action",
+                "relating to verbs in the imperative mood"
+            ],
+            "noun": [
+                "some duty that is essential and urgent",
+                "a mood that expresses an intention to influence the listener's behavior"
+            ]
+        },
+        "example": [
+            "as nuclear weapons proliferate, preventing war becomes imperative"
+        ]
+    },
+    "compel": {
+        "meaning": "force somebody to do something",
+        "breif": "Compel means to force or drive someone to do something. Even if you don't like toast, when you visit the toast-eating natives of Shrintakook Island, you'll be compelled to eat it, or they will not trust you.",
+        "POS": {
+            "verb": [
+                "force somebody to do something",
+                "necessitate or exact"
+            ]
+        },
+        "example": [
+            "We compel all students to fill out this form",
+            "the water shortage compels conservation"
+        ]
+    },
+    "fortify": {
+        "meaning": "make strong or stronger",
+        "breif": "If you add nutrients to something you fortify it. Food scientists have found ways to fortify cereal, but in addition to vitamins C and D, they usually add a lot of sugar.",
+        "POS": {
+            "verb": [
+                "make strong or stronger",
+                "add nutrients to",
+                "add alcohol to (beverages)",
+                "enclose by or as if by a fortification",
+                "prepare oneself for a military confrontation"
+            ]
+        },
+        "example": [
+            "fortified milk"
+        ]
+    },
+    "entail": {
+        "meaning": "have as a logical consequence",
+        "breif": "To entail is to involve. A job at a movie theater might entail sweeping popcorn off the floor, probably because watching a movie entails eating popcorn in the dark. It\u2019s a small price to pay!",
+        "POS": {
+            "verb": [
+                "have as a logical consequence",
+                "impose, involve, or imply as a necessary accompaniment or result",
+                "limit the inheritance of property to a specific class of heirs"
+            ],
+            "noun": [
+                "land received by fee tail",
+                "the act of entailing property; the creation of a fee tail from a fee simple"
+            ]
+        },
+        "example": [
+            "What does this move entail?"
+        ]
+    },
+    "prudent": {
+        "meaning": "marked by sound judgment",
+        "breif": "Describe an action as prudent if it is the wise thing to do under the existing circumstances. If you're getting in trouble, it is probably prudent to keep your mouth closed and just listen.",
+        "POS": {
+            "adjective": [
+                "careful and sensible; marked by sound judgment"
+            ]
+        },
+        "example": [
+            "a prudent manager"
+        ]
+    },
+    "pertain": {
+        "meaning": "be relevant to",
+        "breif": "To pertain is to be relevant or somehow associated with something.  If you're a lawyer, you try to find evidence that will pertain to the case and eliminate anything that is not connected.",
+        "POS": {
+            "verb": [
+                "be relevant to",
+                "be a part or attribute of"
+            ]
+        },
+        "example": [
+            "My remark pertained to your earlier comments"
+        ]
+    },
+    "fraught": {
+        "meaning": "filled with or attended with",
+        "breif": "Fraught means filled with something \u2014 often something bad. Your Thanksgiving was fraught with awkward moments when your family saw your blue hair, and it only got worse when you told them you'd quit law school to join the circus.",
+        "POS": {
+            "adjective": [
+                "filled with or attended with",
+                "marked by distress"
+            ]
+        },
+        "example": [
+            "words fraught with meaning",
+            "a fraught mother-daughter relationship"
+        ]
+    },
+    "bestow": {
+        "meaning": "give as a gift",
+        "breif": "When you present an honor or a gift to someone, you bestow it, which is the same as giving it, but often classier and more respectful.",
+        "POS": {
+            "verb": [
+                "give as a gift",
+                "present",
+                "bestow a quality on"
+            ]
+        },
+        "example": [
+            "bestow an honor on someone"
+        ]
+    },
+    "emphatic": {
+        "meaning": "spoken with particular stress",
+        "breif": "Emphatic means forceful and clear. Nicole's mother was emphatic when she told her not to come home late again.",
+        "POS": {
+            "adjective": [
+                "spoken with emphasis",
+                "sudden and strong",
+                "forceful and definite in expression or action"
+            ]
+        },
+        "example": [
+            "an emphatic word",
+            "an emphatic no",
+            "the document contained a particularly emphatic guarantee of religious liberty"
+        ]
+    },
+    "preach": {
+        "meaning": "deliver a sermon",
+        "breif": "To preach is to deliver a sermon or an otherwise powerful message. You may go to church to hear the minister preach, and you may preach tolerance to your friends.",
+        "POS": {
+            "verb": [
+                "deliver a sermon",
+                "speak, plead, or argue in favor of"
+            ]
+        },
+        "example": [
+            "The minister is not preaching this Sunday"
+        ]
+    },
+    "endeavor": {
+        "meaning": "attempt by employing effort",
+        "breif": "When you endeavor to do something, you try hard to make it happen. A determined student might endeavor to get straight As on her report card.",
+        "POS": {
+            "verb": [
+                "attempt by employing effort"
+            ],
+            "noun": [
+                "earnest and conscientious activity intended to do or accomplish something",
+                "a purposeful or industrious undertaking (especially one that requires effort or boldness)"
+            ]
+        },
+        "example": [
+            "we endeavor to make our customers happy",
+            "wished him luck in his endeavor"
+        ]
+    },
+    "precedent": {
+        "meaning": "an example that is used to justify similar occurrences",
+        "breif": "A precedent is something that sets a standard for future events. It's hard to say what the legal community would do without the word precedent, since so many legal judgments and decisions are based on what came before.",
+        "POS": {
+            "noun": [
+                "an example that is used to justify similar occurrences at a later time",
+                "(civil law) a previous legal decision that is used to inform subsequent decisions",
+                "a system of jurisprudence based on judicial precedents rather than statutory laws",
+                "a subject mentioned earlier (preceding in time)"
+            ],
+            "adjective": [
+                "preceding in time, order, or significance"
+            ]
+        },
+        "example": []
+    },
+    "gratify": {
+        "meaning": "make happy or satisfied",
+        "breif": "To gratify is to satisfy. Bringing home an A in math would gratify your math tutor. \r\nGratify can also mean to give in. You probably shouldn't gratify your urge to scream in class.",
+        "POS": {
+            "verb": [
+                "make happy or satisfied",
+                "yield (to); give satisfaction to"
+            ]
+        },
+        "example": []
+    },
+    "drudgery": {
+        "meaning": "hard, monotonous, routine work",
+        "breif": "If you\u2019ve ever had to do the laundry, wash the dishes, make the meals, change the bedding, vacuum the house, and clean the bathrooms day after day, you\u2019ve experienced drudgery. Drudgery is hard, mindless, backbreaking work.",
+        "POS": {
+            "noun": [
+                "hard monotonous routine work"
+            ]
+        },
+        "example": []
+    },
+    "autochthonous": {
+        "meaning": "originating where it is found",
+        "breif": "Use the adjective autochthonous to say that something is native to an area. If kane toads originated in your area, then they\u2019re an autochthonous species.",
+        "POS": {
+            "adjective": [
+                "originating where it is found",
+                "of rocks, deposits, etc.; found where they and their constituents were formed"
+            ]
+        },
+        "example": [
+            "autochthonous rocks and people and folktales"
+        ]
+    },
+    "satiate": {
+        "meaning": "fill to satisfaction",
+        "breif": "If you just can't get enough popcorn, even the jumbo tub at the movie theater may not be enough to satiate, or satisfy, your desire.",
+        "POS": {
+            "verb": [
+                "fill to satisfaction",
+                "overeat or eat immodestly; make a pig of oneself"
+            ],
+            "adjective": [
+                "supplied (especially fed) to satisfaction"
+            ]
+        },
+        "example": []
+    },
+    "clique": {
+        "meaning": "an exclusive circle of people with a common purpose",
+        "breif": "A clique is an exclusive group of people or friends. Before Rudolph pulled Santa's sled through the fog, the clique of flying reindeer never let him play their reindeer games.",
+        "POS": {
+            "noun": [
+                "an exclusive circle of people with a common purpose"
+            ]
+        },
+        "example": []
+    },
+    "befuddle": {
+        "meaning": "be confusing or perplexing to",
+        "breif": "To befuddle is to confuse. A sticky exam question can befuddle you, or an awkward question about your whereabouts the night before (how can you remember? You were befuddled, after all.)",
+        "POS": {
+            "verb": [
+                "be confusing or perplexing to; cause to be unable to think clearly",
+                "make stupid with alcohol"
+            ]
+        },
+        "example": [
+            "This question befuddled even the teacher"
+        ]
+    },
+    "coadjutor": {
+        "meaning": "an assistant to a bishop",
+        "breif": "",
+        "POS": {
+            "noun": [
+                "an assistant to a bishop"
+            ]
+        },
+        "example": []
+    },
+    "onslaught": {
+        "meaning": "an offensive against an enemy",
+        "breif": "Onslaught is a military term that refers to an attack against an enemy. It's safe to say that no one wants to be caught on the receiving end of an onslaught, because there will be lots of danger, destruction and probably death.",
+        "POS": {
+            "noun": [
+                "(military) an offensive against an enemy (using weapons)",
+                "a sudden and severe onset of trouble",
+                "the rapid and continuous delivery of linguistic communication (spoken or written)"
+            ]
+        },
+        "example": []
+    },
+    "treason": {
+        "meaning": "a crime that undermines the offender's government",
+        "breif": "Hacking your brother\u2019s email account and sharing all his secrets with your mom could be considered an act of personal treason, meaning you have betrayed your brother.",
+        "POS": {
+            "noun": [
+                "a crime that undermines the offender's government",
+                "disloyalty by virtue of subversive behavior",
+                "an act of deliberate betrayal"
+            ]
+        },
+        "example": []
+    },
+    "cognition": {
+        "meaning": "the psychological result of perception and reasoning",
+        "breif": "Cognition is the act of thinking, perceiving, and understanding. It's cognition that makes it possible for you to learn a foreign language.",
+        "POS": {
+            "noun": [
+                "the psychological result of perception and learning and reasoning"
+            ]
+        },
+        "example": []
+    },
+    "cordon": {
+        "meaning": "a series of sentinels or posts enclosing some place or thing",
+        "breif": "That yellow police tape and group of officers encircling the crime scene? That's a kind of cordon \u2014 something set up to guard something.",
+        "POS": {
+            "noun": [
+                "a series of sentinels or of military posts enclosing or guarding some place or thing",
+                "cord or ribbon worn as an insignia of honor or rank",
+                "adornment consisting of an ornamental ribbon or cord"
+            ]
+        },
+        "example": []
+    },
+    "procure": {
+        "meaning": "get by special effort",
+        "breif": "In prison movies, there's always a character who is able to procure all sorts of contraband from the inside \u2014 magazines, playing cards, special soap. If you procure something, you get it or bring it about by special effort.",
+        "POS": {
+            "verb": [
+                "get by special effort",
+                "arrange for sexual partners for others"
+            ]
+        },
+        "example": []
+    },
+    "obsolete": {
+        "meaning": "no longer in use",
+        "breif": "Use the adjective obsolete for something that is out of date. As the Rolling Stones song \"Out of Time\" goes, \"You're obsolete, my baby, my poor old-fashioned baby.\"",
+        "POS": {
+            "adjective": [
+                "no longer in use"
+            ]
+        },
+        "example": [
+            "obsolete words"
+        ]
+    }
+}
